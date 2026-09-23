@@ -5,7 +5,7 @@ import io
 import json
 from typing import Any, Iterable
 
-from backend.threat_platform.models.schemas import DATA_ORIGIN
+from threat_platform.models.schemas import DATA_ORIGIN
 
 
 def _records(dataset: dict[str, Any], field: str) -> list[dict[str, Any]]:

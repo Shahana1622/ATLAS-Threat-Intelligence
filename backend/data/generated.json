@@ -1,0 +1,6409 @@
+{
+  "data_origin": "synthetic",
+  "actors": [
+    {
+      "actor_id": "Actor_001",
+      "name": "Fictional Cluster 001",
+      "data_origin": "synthetic"
+    },
+    {
+      "actor_id": "Actor_002",
+      "name": "Fictional Cluster 002",
+      "data_origin": "synthetic"
+    },
+    {
+      "actor_id": "Actor_003",
+      "name": "Fictional Cluster 003",
+      "data_origin": "synthetic"
+    },
+    {
+      "actor_id": "Actor_004",
+      "name": "Fictional Cluster 004",
+      "data_origin": "synthetic"
+    },
+    {
+      "actor_id": "Actor_005",
+      "name": "Fictional Cluster 005",
+      "data_origin": "synthetic"
+    },
+    {
+      "actor_id": "Actor_006",
+      "name": "Fictional Cluster 006",
+      "data_origin": "synthetic"
+    },
+    {
+      "actor_id": "Actor_007",
+      "name": "Fictional Cluster 007",
+      "data_origin": "synthetic"
+    },
+    {
+      "actor_id": "Actor_008",
+      "name": "Fictional Cluster 008",
+      "data_origin": "synthetic"
+    },
+    {
+      "actor_id": "Actor_009",
+      "name": "Fictional Cluster 009",
+      "data_origin": "synthetic"
+    },
+    {
+      "actor_id": "Actor_010",
+      "name": "Fictional Cluster 010",
+      "data_origin": "synthetic"
+    },
+    {
+      "actor_id": "Actor_011",
+      "name": "Fictional Cluster 011",
+      "data_origin": "synthetic"
+    },
+    {
+      "actor_id": "Actor_012",
+      "name": "Fictional Cluster 012",
+      "data_origin": "synthetic"
+    },
+    {
+      "actor_id": "Actor_013",
+      "name": "Fictional Cluster 013",
+      "data_origin": "synthetic"
+    },
+    {
+      "actor_id": "Actor_014",
+      "name": "Fictional Cluster 014",
+      "data_origin": "synthetic"
+    },
+    {
+      "actor_id": "Actor_015",
+      "name": "Fictional Cluster 015",
+      "data_origin": "synthetic"
+    }
+  ],
+  "marketplaces": [
+    {
+      "marketplace_id": "Marketplace_001",
+      "name": "Fictional Market 001",
+      "data_origin": "synthetic"
+    },
+    {
+      "marketplace_id": "Marketplace_002",
+      "name": "Fictional Market 002",
+      "data_origin": "synthetic"
+    },
+    {
+      "marketplace_id": "Marketplace_003",
+      "name": "Fictional Market 003",
+      "data_origin": "synthetic"
+    },
+    {
+      "marketplace_id": "Marketplace_004",
+      "name": "Fictional Market 004",
+      "data_origin": "synthetic"
+    },
+    {
+      "marketplace_id": "Marketplace_005",
+      "name": "Fictional Market 005",
+      "data_origin": "synthetic"
+    },
+    {
+      "marketplace_id": "Marketplace_006",
+      "name": "Fictional Market 006",
+      "data_origin": "synthetic"
+    },
+    {
+      "marketplace_id": "Marketplace_007",
+      "name": "Fictional Market 007",
+      "data_origin": "synthetic"
+    },
+    {
+      "marketplace_id": "Marketplace_008",
+      "name": "Fictional Market 008",
+      "data_origin": "synthetic"
+    },
+    {
+      "marketplace_id": "Marketplace_009",
+      "name": "Fictional Market 009",
+      "data_origin": "synthetic"
+    },
+    {
+      "marketplace_id": "Marketplace_010",
+      "name": "Fictional Market 010",
+      "data_origin": "synthetic"
+    },
+    {
+      "marketplace_id": "Marketplace_011",
+      "name": "Fictional Market 011",
+      "data_origin": "synthetic"
+    },
+    {
+      "marketplace_id": "Marketplace_012",
+      "name": "Fictional Market 012",
+      "data_origin": "synthetic"
+    },
+    {
+      "marketplace_id": "Marketplace_013",
+      "name": "Fictional Market 013",
+      "data_origin": "synthetic"
+    },
+    {
+      "marketplace_id": "Marketplace_014",
+      "name": "Fictional Market 014",
+      "data_origin": "synthetic"
+    },
+    {
+      "marketplace_id": "Marketplace_015",
+      "name": "Fictional Market 015",
+      "data_origin": "synthetic"
+    }
+  ],
+  "forums": [
+    {
+      "forum_id": "Forum_001",
+      "name": "Fictional Forum 001",
+      "data_origin": "synthetic"
+    },
+    {
+      "forum_id": "Forum_002",
+      "name": "Fictional Forum 002",
+      "data_origin": "synthetic"
+    },
+    {
+      "forum_id": "Forum_003",
+      "name": "Fictional Forum 003",
+      "data_origin": "synthetic"
+    },
+    {
+      "forum_id": "Forum_004",
+      "name": "Fictional Forum 004",
+      "data_origin": "synthetic"
+    },
+    {
+      "forum_id": "Forum_005",
+      "name": "Fictional Forum 005",
+      "data_origin": "synthetic"
+    },
+    {
+      "forum_id": "Forum_006",
+      "name": "Fictional Forum 006",
+      "data_origin": "synthetic"
+    },
+    {
+      "forum_id": "Forum_007",
+      "name": "Fictional Forum 007",
+      "data_origin": "synthetic"
+    },
+    {
+      "forum_id": "Forum_008",
+      "name": "Fictional Forum 008",
+      "data_origin": "synthetic"
+    },
+    {
+      "forum_id": "Forum_009",
+      "name": "Fictional Forum 009",
+      "data_origin": "synthetic"
+    },
+    {
+      "forum_id": "Forum_010",
+      "name": "Fictional Forum 010",
+      "data_origin": "synthetic"
+    },
+    {
+      "forum_id": "Forum_011",
+      "name": "Fictional Forum 011",
+      "data_origin": "synthetic"
+    },
+    {
+      "forum_id": "Forum_012",
+      "name": "Fictional Forum 012",
+      "data_origin": "synthetic"
+    },
+    {
+      "forum_id": "Forum_013",
+      "name": "Fictional Forum 013",
+      "data_origin": "synthetic"
+    },
+    {
+      "forum_id": "Forum_014",
+      "name": "Fictional Forum 014",
+      "data_origin": "synthetic"
+    },
+    {
+      "forum_id": "Forum_015",
+      "name": "Fictional Forum 015",
+      "data_origin": "synthetic"
+    }
+  ],
+  "pgp_identifiers": [
+    {
+      "pgp_id": "PGP_001",
+      "fingerprint": "FICTIONAL-PGP-001",
+      "data_origin": "synthetic"
+    },
+    {
+      "pgp_id": "PGP_002",
+      "fingerprint": "FICTIONAL-PGP-002",
+      "data_origin": "synthetic"
+    },
+    {
+      "pgp_id": "PGP_003",
+      "fingerprint": "FICTIONAL-PGP-003",
+      "data_origin": "synthetic"
+    },
+    {
+      "pgp_id": "PGP_004",
+      "fingerprint": "FICTIONAL-PGP-004",
+      "data_origin": "synthetic"
+    },
+    {
+      "pgp_id": "PGP_005",
+      "fingerprint": "FICTIONAL-PGP-005",
+      "data_origin": "synthetic"
+    },
+    {
+      "pgp_id": "PGP_006",
+      "fingerprint": "FICTIONAL-PGP-006",
+      "data_origin": "synthetic"
+    },
+    {
+      "pgp_id": "PGP_007",
+      "fingerprint": "FICTIONAL-PGP-007",
+      "data_origin": "synthetic"
+    },
+    {
+      "pgp_id": "PGP_008",
+      "fingerprint": "FICTIONAL-PGP-008",
+      "data_origin": "synthetic"
+    },
+    {
+      "pgp_id": "PGP_009",
+      "fingerprint": "FICTIONAL-PGP-009",
+      "data_origin": "synthetic"
+    },
+    {
+      "pgp_id": "PGP_010",
+      "fingerprint": "FICTIONAL-PGP-010",
+      "data_origin": "synthetic"
+    },
+    {
+      "pgp_id": "PGP_011",
+      "fingerprint": "FICTIONAL-PGP-011",
+      "data_origin": "synthetic"
+    },
+    {
+      "pgp_id": "PGP_012",
+      "fingerprint": "FICTIONAL-PGP-012",
+      "data_origin": "synthetic"
+    },
+    {
+      "pgp_id": "PGP_013",
+      "fingerprint": "FICTIONAL-PGP-013",
+      "data_origin": "synthetic"
+    },
+    {
+      "pgp_id": "PGP_014",
+      "fingerprint": "FICTIONAL-PGP-014",
+      "data_origin": "synthetic"
+    },
+    {
+      "pgp_id": "PGP_015",
+      "fingerprint": "FICTIONAL-PGP-015",
+      "data_origin": "synthetic"
+    }
+  ],
+  "wallet_identifiers": [
+    {
+      "wallet_id": "Wallet_001",
+      "value": "wallet-fixture-001",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_002",
+      "value": "wallet-fixture-002",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_003",
+      "value": "wallet-fixture-003",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_004",
+      "value": "wallet-fixture-004",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_005",
+      "value": "wallet-fixture-005",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_006",
+      "value": "wallet-fixture-006",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_007",
+      "value": "wallet-fixture-007",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_008",
+      "value": "wallet-fixture-008",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_009",
+      "value": "wallet-fixture-009",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_010",
+      "value": "wallet-fixture-010",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_011",
+      "value": "wallet-fixture-011",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_012",
+      "value": "wallet-fixture-012",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_013",
+      "value": "wallet-fixture-013",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_014",
+      "value": "wallet-fixture-014",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_015",
+      "value": "wallet-fixture-015",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_016",
+      "value": "wallet-fixture-016",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_017",
+      "value": "wallet-fixture-017",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_018",
+      "value": "wallet-fixture-018",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_019",
+      "value": "wallet-fixture-019",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_020",
+      "value": "wallet-fixture-020",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_021",
+      "value": "wallet-fixture-021",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_022",
+      "value": "wallet-fixture-022",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_023",
+      "value": "wallet-fixture-023",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_024",
+      "value": "wallet-fixture-024",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_025",
+      "value": "wallet-fixture-025",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_026",
+      "value": "wallet-fixture-026",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_027",
+      "value": "wallet-fixture-027",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_028",
+      "value": "wallet-fixture-028",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_029",
+      "value": "wallet-fixture-029",
+      "data_origin": "synthetic"
+    },
+    {
+      "wallet_id": "Wallet_030",
+      "value": "wallet-fixture-030",
+      "data_origin": "synthetic"
+    }
+  ],
+  "infrastructure": [
+    {
+      "infra_id": "Infra_001",
+      "fingerprint": {
+        "tls": "tls-1",
+        "host_pattern": "host-1",
+        "timing": 1
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_002",
+      "fingerprint": {
+        "tls": "tls-2",
+        "host_pattern": "host-2",
+        "timing": 2
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_003",
+      "fingerprint": {
+        "tls": "tls-3",
+        "host_pattern": "host-3",
+        "timing": 0
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_004",
+      "fingerprint": {
+        "tls": "tls-4",
+        "host_pattern": "host-0",
+        "timing": 1
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_005",
+      "fingerprint": {
+        "tls": "tls-0",
+        "host_pattern": "host-1",
+        "timing": 2
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_006",
+      "fingerprint": {
+        "tls": "tls-1",
+        "host_pattern": "host-2",
+        "timing": 0
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_007",
+      "fingerprint": {
+        "tls": "tls-2",
+        "host_pattern": "host-3",
+        "timing": 1
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_008",
+      "fingerprint": {
+        "tls": "tls-3",
+        "host_pattern": "host-0",
+        "timing": 2
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_009",
+      "fingerprint": {
+        "tls": "tls-4",
+        "host_pattern": "host-1",
+        "timing": 0
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_010",
+      "fingerprint": {
+        "tls": "tls-0",
+        "host_pattern": "host-2",
+        "timing": 1
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_011",
+      "fingerprint": {
+        "tls": "tls-1",
+        "host_pattern": "host-3",
+        "timing": 2
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_012",
+      "fingerprint": {
+        "tls": "tls-2",
+        "host_pattern": "host-0",
+        "timing": 0
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_013",
+      "fingerprint": {
+        "tls": "tls-3",
+        "host_pattern": "host-1",
+        "timing": 1
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_014",
+      "fingerprint": {
+        "tls": "tls-4",
+        "host_pattern": "host-2",
+        "timing": 2
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_015",
+      "fingerprint": {
+        "tls": "tls-0",
+        "host_pattern": "host-3",
+        "timing": 0
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_016",
+      "fingerprint": {
+        "tls": "tls-1",
+        "host_pattern": "host-0",
+        "timing": 1
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_017",
+      "fingerprint": {
+        "tls": "tls-2",
+        "host_pattern": "host-1",
+        "timing": 2
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_018",
+      "fingerprint": {
+        "tls": "tls-3",
+        "host_pattern": "host-2",
+        "timing": 0
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_019",
+      "fingerprint": {
+        "tls": "tls-4",
+        "host_pattern": "host-3",
+        "timing": 1
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    },
+    {
+      "infra_id": "Infra_020",
+      "fingerprint": {
+        "tls": "tls-0",
+        "host_pattern": "host-0",
+        "timing": 2
+      },
+      "kind": "fictional_fingerprint",
+      "data_origin": "synthetic"
+    }
+  ],
+  "sources": [
+    {
+      "source_id": "Source_001",
+      "source_type": "fixture_forum",
+      "source_family": "Family_01",
+      "reliability": 0.69,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_002",
+      "source_type": "fixture_market",
+      "source_family": "Family_02",
+      "reliability": 0.76,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_003",
+      "source_type": "fixture_forum",
+      "source_family": "Family_03",
+      "reliability": 0.83,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_004",
+      "source_type": "fixture_market",
+      "source_family": "Family_04",
+      "reliability": 0.9,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_005",
+      "source_type": "fixture_forum",
+      "source_family": "Family_05",
+      "reliability": 0.62,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_006",
+      "source_type": "fixture_market",
+      "source_family": "Family_00",
+      "reliability": 0.69,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_007",
+      "source_type": "fixture_forum",
+      "source_family": "Family_01",
+      "reliability": 0.76,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_008",
+      "source_type": "fixture_market",
+      "source_family": "Family_02",
+      "reliability": 0.83,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_009",
+      "source_type": "fixture_forum",
+      "source_family": "Family_03",
+      "reliability": 0.9,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_010",
+      "source_type": "fixture_market",
+      "source_family": "Family_04",
+      "reliability": 0.62,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_011",
+      "source_type": "fixture_forum",
+      "source_family": "Family_05",
+      "reliability": 0.69,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_012",
+      "source_type": "fixture_market",
+      "source_family": "Family_00",
+      "reliability": 0.76,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_013",
+      "source_type": "fixture_forum",
+      "source_family": "Family_01",
+      "reliability": 0.83,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_014",
+      "source_type": "fixture_market",
+      "source_family": "Family_02",
+      "reliability": 0.9,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_015",
+      "source_type": "fixture_forum",
+      "source_family": "Family_03",
+      "reliability": 0.62,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_016",
+      "source_type": "fixture_market",
+      "source_family": "Family_04",
+      "reliability": 0.69,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_017",
+      "source_type": "fixture_forum",
+      "source_family": "Family_05",
+      "reliability": 0.76,
+      "data_origin": "synthetic"
+    },
+    {
+      "source_id": "Source_018",
+      "source_type": "fixture_market",
+      "source_family": "Family_00",
+      "reliability": 0.83,
+      "data_origin": "synthetic"
+    }
+  ],
+  "personas": [
+    {
+      "persona_id": "Persona_001",
+      "actor_id": "Actor_001",
+      "handles": [
+        "Handle_001",
+        "Handle_019"
+      ],
+      "writing_samples": [
+        "Sample_001_1",
+        "Sample_001_2",
+        "Sample_001_3"
+      ],
+      "behavioral_events": [
+        "Event_001_1",
+        "Event_001_2",
+        "Event_001_3",
+        "Event_001_4",
+        "Event_001_5",
+        "Event_001_6"
+      ],
+      "platforms": [
+        "Forum_001",
+        "Marketplace_003"
+      ],
+      "first_seen": "2025-01-11T09:00:00Z",
+      "last_seen": "2026-02-02T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_002",
+      "actor_id": "Actor_002",
+      "handles": [
+        "Handle_002",
+        "Handle_020"
+      ],
+      "writing_samples": [
+        "Sample_002_1",
+        "Sample_002_2",
+        "Sample_002_3"
+      ],
+      "behavioral_events": [
+        "Event_002_1",
+        "Event_002_2",
+        "Event_002_3",
+        "Event_002_4",
+        "Event_002_5",
+        "Event_002_6"
+      ],
+      "platforms": [
+        "Forum_002",
+        "Marketplace_004"
+      ],
+      "first_seen": "2025-01-12T09:00:00Z",
+      "last_seen": "2026-02-03T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_003",
+      "actor_id": "Actor_003",
+      "handles": [
+        "Handle_003",
+        "Handle_021"
+      ],
+      "writing_samples": [
+        "Sample_003_1",
+        "Sample_003_2",
+        "Sample_003_3"
+      ],
+      "behavioral_events": [
+        "Event_003_1",
+        "Event_003_2",
+        "Event_003_3",
+        "Event_003_4",
+        "Event_003_5",
+        "Event_003_6"
+      ],
+      "platforms": [
+        "Forum_003",
+        "Marketplace_005"
+      ],
+      "first_seen": "2025-01-13T09:00:00Z",
+      "last_seen": "2026-02-04T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_004",
+      "actor_id": "Actor_004",
+      "handles": [
+        "Handle_004",
+        "Handle_022"
+      ],
+      "writing_samples": [
+        "Sample_004_1",
+        "Sample_004_2",
+        "Sample_004_3"
+      ],
+      "behavioral_events": [
+        "Event_004_1",
+        "Event_004_2",
+        "Event_004_3",
+        "Event_004_4",
+        "Event_004_5",
+        "Event_004_6"
+      ],
+      "platforms": [
+        "Forum_004",
+        "Marketplace_006"
+      ],
+      "first_seen": "2025-01-14T09:00:00Z",
+      "last_seen": "2026-02-05T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_005",
+      "actor_id": "Actor_005",
+      "handles": [
+        "Handle_005",
+        "Handle_023"
+      ],
+      "writing_samples": [
+        "Sample_005_1",
+        "Sample_005_2",
+        "Sample_005_3"
+      ],
+      "behavioral_events": [
+        "Event_005_1",
+        "Event_005_2",
+        "Event_005_3",
+        "Event_005_4",
+        "Event_005_5",
+        "Event_005_6"
+      ],
+      "platforms": [
+        "Forum_005",
+        "Marketplace_007"
+      ],
+      "first_seen": "2025-01-15T09:00:00Z",
+      "last_seen": "2026-02-06T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_006",
+      "actor_id": "Actor_006",
+      "handles": [
+        "Handle_006",
+        "Handle_024"
+      ],
+      "writing_samples": [
+        "Sample_006_1",
+        "Sample_006_2",
+        "Sample_006_3"
+      ],
+      "behavioral_events": [
+        "Event_006_1",
+        "Event_006_2",
+        "Event_006_3",
+        "Event_006_4",
+        "Event_006_5",
+        "Event_006_6"
+      ],
+      "platforms": [
+        "Forum_006",
+        "Marketplace_008"
+      ],
+      "first_seen": "2025-01-16T09:00:00Z",
+      "last_seen": "2026-02-07T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_007",
+      "actor_id": "Actor_007",
+      "handles": [
+        "Handle_007",
+        "Handle_025"
+      ],
+      "writing_samples": [
+        "Sample_007_1",
+        "Sample_007_2",
+        "Sample_007_3"
+      ],
+      "behavioral_events": [
+        "Event_007_1",
+        "Event_007_2",
+        "Event_007_3",
+        "Event_007_4",
+        "Event_007_5",
+        "Event_007_6"
+      ],
+      "platforms": [
+        "Forum_007",
+        "Marketplace_009"
+      ],
+      "first_seen": "2025-01-17T09:00:00Z",
+      "last_seen": "2026-02-08T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_008",
+      "actor_id": "Actor_008",
+      "handles": [
+        "Handle_008",
+        "Handle_026"
+      ],
+      "writing_samples": [
+        "Sample_008_1",
+        "Sample_008_2",
+        "Sample_008_3"
+      ],
+      "behavioral_events": [
+        "Event_008_1",
+        "Event_008_2",
+        "Event_008_3",
+        "Event_008_4",
+        "Event_008_5",
+        "Event_008_6"
+      ],
+      "platforms": [
+        "Forum_008",
+        "Marketplace_010"
+      ],
+      "first_seen": "2025-01-18T09:00:00Z",
+      "last_seen": "2026-02-09T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_009",
+      "actor_id": "Actor_009",
+      "handles": [
+        "Handle_009",
+        "Handle_027"
+      ],
+      "writing_samples": [
+        "Sample_009_1",
+        "Sample_009_2",
+        "Sample_009_3"
+      ],
+      "behavioral_events": [
+        "Event_009_1",
+        "Event_009_2",
+        "Event_009_3",
+        "Event_009_4",
+        "Event_009_5",
+        "Event_009_6"
+      ],
+      "platforms": [
+        "Forum_009",
+        "Marketplace_011"
+      ],
+      "first_seen": "2025-01-19T09:00:00Z",
+      "last_seen": "2026-02-10T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_010",
+      "actor_id": "Actor_010",
+      "handles": [
+        "Handle_010",
+        "Handle_028"
+      ],
+      "writing_samples": [
+        "Sample_010_1",
+        "Sample_010_2",
+        "Sample_010_3"
+      ],
+      "behavioral_events": [
+        "Event_010_1",
+        "Event_010_2",
+        "Event_010_3",
+        "Event_010_4",
+        "Event_010_5",
+        "Event_010_6"
+      ],
+      "platforms": [
+        "Forum_010",
+        "Marketplace_012"
+      ],
+      "first_seen": "2025-01-20T09:00:00Z",
+      "last_seen": "2026-02-11T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_011",
+      "actor_id": "Actor_011",
+      "handles": [
+        "Handle_011",
+        "Handle_029"
+      ],
+      "writing_samples": [
+        "Sample_011_1",
+        "Sample_011_2",
+        "Sample_011_3"
+      ],
+      "behavioral_events": [
+        "Event_011_1",
+        "Event_011_2",
+        "Event_011_3",
+        "Event_011_4",
+        "Event_011_5",
+        "Event_011_6"
+      ],
+      "platforms": [
+        "Forum_011",
+        "Marketplace_013"
+      ],
+      "first_seen": "2025-01-21T09:00:00Z",
+      "last_seen": "2026-02-12T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_012",
+      "actor_id": "Actor_012",
+      "handles": [
+        "Handle_012",
+        "Handle_030"
+      ],
+      "writing_samples": [
+        "Sample_012_1",
+        "Sample_012_2",
+        "Sample_012_3"
+      ],
+      "behavioral_events": [
+        "Event_012_1",
+        "Event_012_2",
+        "Event_012_3",
+        "Event_012_4",
+        "Event_012_5",
+        "Event_012_6"
+      ],
+      "platforms": [
+        "Forum_012",
+        "Marketplace_014"
+      ],
+      "first_seen": "2025-01-22T09:00:00Z",
+      "last_seen": "2026-02-13T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_013",
+      "actor_id": "Actor_013",
+      "handles": [
+        "Handle_013",
+        "Handle_031"
+      ],
+      "writing_samples": [
+        "Sample_013_1",
+        "Sample_013_2",
+        "Sample_013_3"
+      ],
+      "behavioral_events": [
+        "Event_013_1",
+        "Event_013_2",
+        "Event_013_3",
+        "Event_013_4",
+        "Event_013_5",
+        "Event_013_6"
+      ],
+      "platforms": [
+        "Forum_013",
+        "Marketplace_015"
+      ],
+      "first_seen": "2025-01-23T09:00:00Z",
+      "last_seen": "2026-02-14T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_014",
+      "actor_id": "Actor_014",
+      "handles": [
+        "Handle_014",
+        "Handle_032"
+      ],
+      "writing_samples": [
+        "Sample_014_1",
+        "Sample_014_2",
+        "Sample_014_3"
+      ],
+      "behavioral_events": [
+        "Event_014_1",
+        "Event_014_2",
+        "Event_014_3",
+        "Event_014_4",
+        "Event_014_5",
+        "Event_014_6"
+      ],
+      "platforms": [
+        "Forum_014",
+        "Marketplace_001"
+      ],
+      "first_seen": "2025-01-24T09:00:00Z",
+      "last_seen": "2026-02-15T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_015",
+      "actor_id": "Actor_015",
+      "handles": [
+        "Handle_015",
+        "Handle_033"
+      ],
+      "writing_samples": [
+        "Sample_015_1",
+        "Sample_015_2",
+        "Sample_015_3"
+      ],
+      "behavioral_events": [
+        "Event_015_1",
+        "Event_015_2",
+        "Event_015_3",
+        "Event_015_4",
+        "Event_015_5",
+        "Event_015_6"
+      ],
+      "platforms": [
+        "Forum_015",
+        "Marketplace_002"
+      ],
+      "first_seen": "2025-01-25T09:00:00Z",
+      "last_seen": "2026-02-16T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_016",
+      "actor_id": "Actor_001",
+      "handles": [
+        "Handle_016",
+        "Handle_034"
+      ],
+      "writing_samples": [
+        "Sample_016_1",
+        "Sample_016_2",
+        "Sample_016_3"
+      ],
+      "behavioral_events": [
+        "Event_016_1",
+        "Event_016_2",
+        "Event_016_3",
+        "Event_016_4",
+        "Event_016_5",
+        "Event_016_6"
+      ],
+      "platforms": [
+        "Forum_001",
+        "Marketplace_003"
+      ],
+      "first_seen": "2025-01-26T09:00:00Z",
+      "last_seen": "2026-02-17T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_017",
+      "actor_id": "Actor_002",
+      "handles": [
+        "Handle_017",
+        "Handle_035"
+      ],
+      "writing_samples": [
+        "Sample_017_1",
+        "Sample_017_2",
+        "Sample_017_3"
+      ],
+      "behavioral_events": [
+        "Event_017_1",
+        "Event_017_2",
+        "Event_017_3",
+        "Event_017_4",
+        "Event_017_5",
+        "Event_017_6"
+      ],
+      "platforms": [
+        "Forum_002",
+        "Marketplace_004"
+      ],
+      "first_seen": "2025-01-27T09:00:00Z",
+      "last_seen": "2026-02-18T21:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "persona_id": "Persona_018",
+      "actor_id": "Actor_003",
+      "handles": [
+        "Handle_018",
+        "Handle_036"
+      ],
+      "writing_samples": [
+        "Sample_018_1",
+        "Sample_018_2",
+        "Sample_018_3"
+      ],
+      "behavioral_events": [
+        "Event_018_1",
+        "Event_018_2",
+        "Event_018_3",
+        "Event_018_4",
+        "Event_018_5",
+        "Event_018_6"
+      ],
+      "platforms": [
+        "Forum_003",
+        "Marketplace_005"
+      ],
+      "first_seen": "2025-01-28T09:00:00Z",
+      "last_seen": "2026-02-19T21:00:00Z",
+      "data_origin": "synthetic"
+    }
+  ],
+  "handles": [
+    {
+      "handle_id": "Handle_001",
+      "value": "handle_001",
+      "platform_id": "Forum_001",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_019",
+      "value": "alias_001",
+      "platform_id": "Marketplace_003",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_002",
+      "value": "handle_002",
+      "platform_id": "Forum_002",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_020",
+      "value": "alias_002",
+      "platform_id": "Marketplace_004",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_003",
+      "value": "handle_003",
+      "platform_id": "Forum_003",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_021",
+      "value": "alias_003",
+      "platform_id": "Marketplace_005",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_004",
+      "value": "handle_004",
+      "platform_id": "Forum_004",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_022",
+      "value": "alias_004",
+      "platform_id": "Marketplace_006",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_005",
+      "value": "handle_005",
+      "platform_id": "Forum_005",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_023",
+      "value": "alias_005",
+      "platform_id": "Marketplace_007",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_006",
+      "value": "handle_006",
+      "platform_id": "Forum_006",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_024",
+      "value": "alias_006",
+      "platform_id": "Marketplace_008",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_007",
+      "value": "northstar_mock",
+      "platform_id": "Forum_007",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_025",
+      "value": "northstar_mock",
+      "platform_id": "Marketplace_009",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_008",
+      "value": "handle_008",
+      "platform_id": "Forum_008",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_026",
+      "value": "alias_008",
+      "platform_id": "Marketplace_010",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_009",
+      "value": "handle_009",
+      "platform_id": "Forum_009",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_027",
+      "value": "alias_009",
+      "platform_id": "Marketplace_011",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_010",
+      "value": "handle_010",
+      "platform_id": "Forum_010",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_028",
+      "value": "alias_010",
+      "platform_id": "Marketplace_012",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_011",
+      "value": "handle_011",
+      "platform_id": "Forum_011",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_029",
+      "value": "alias_011",
+      "platform_id": "Marketplace_013",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_012",
+      "value": "handle_012",
+      "platform_id": "Forum_012",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_030",
+      "value": "alias_012",
+      "platform_id": "Marketplace_014",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_013",
+      "value": "handle_013",
+      "platform_id": "Forum_013",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_031",
+      "value": "alias_013",
+      "platform_id": "Marketplace_015",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_014",
+      "value": "handle_014",
+      "platform_id": "Forum_014",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_032",
+      "value": "alias_014",
+      "platform_id": "Marketplace_001",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_015",
+      "value": "handle_015",
+      "platform_id": "Forum_015",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_033",
+      "value": "alias_015",
+      "platform_id": "Marketplace_002",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_016",
+      "value": "handle_016",
+      "platform_id": "Forum_001",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_034",
+      "value": "alias_016",
+      "platform_id": "Marketplace_003",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_017",
+      "value": "handle_017",
+      "platform_id": "Forum_002",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_035",
+      "value": "alias_017",
+      "platform_id": "Marketplace_004",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_018",
+      "value": "handle_018",
+      "platform_id": "Forum_003",
+      "data_origin": "synthetic"
+    },
+    {
+      "handle_id": "Handle_036",
+      "value": "alias_018",
+      "platform_id": "Marketplace_005",
+      "data_origin": "synthetic"
+    }
+  ],
+  "posts": [
+    {
+      "post_id": "Post_001_1",
+      "author_handle_id": "Handle_001",
+      "source_id": "Source_003",
+      "timestamp": "2025-03-02T11:00:00Z",
+      "content": "fictional writing sample 1 1 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_001_2",
+      "author_handle_id": "Handle_001",
+      "source_id": "Source_004",
+      "timestamp": "2025-04-02T14:00:00Z",
+      "content": "fictional writing sample 1 2 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_001_3",
+      "author_handle_id": "Handle_001",
+      "source_id": "Source_005",
+      "timestamp": "2025-05-02T17:00:00Z",
+      "content": "fictional writing sample 1 3 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_001_4",
+      "author_handle_id": "Handle_001",
+      "source_id": "Source_006",
+      "timestamp": "2025-06-02T20:00:00Z",
+      "content": "fictional writing sample 1 4 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_002_1",
+      "author_handle_id": "Handle_002",
+      "source_id": "Source_004",
+      "timestamp": "2025-04-03T11:00:00Z",
+      "content": "fictional writing sample 2 1 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_002_2",
+      "author_handle_id": "Handle_002",
+      "source_id": "Source_005",
+      "timestamp": "2025-05-03T14:00:00Z",
+      "content": "fictional writing sample 2 2 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_002_3",
+      "author_handle_id": "Handle_002",
+      "source_id": "Source_006",
+      "timestamp": "2025-06-03T17:00:00Z",
+      "content": "fictional writing sample 2 3 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_002_4",
+      "author_handle_id": "Handle_002",
+      "source_id": "Source_007",
+      "timestamp": "2025-07-03T20:00:00Z",
+      "content": "fictional writing sample 2 4 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_003_1",
+      "author_handle_id": "Handle_003",
+      "source_id": "Source_005",
+      "timestamp": "2025-05-04T11:00:00Z",
+      "content": "fictional writing sample 3 1 with measured rhythm 3",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_003_2",
+      "author_handle_id": "Handle_003",
+      "source_id": "Source_006",
+      "timestamp": "2025-06-04T14:00:00Z",
+      "content": "fictional writing sample 3 2 with measured rhythm 3",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_003_3",
+      "author_handle_id": "Handle_003",
+      "source_id": "Source_007",
+      "timestamp": "2025-07-04T17:00:00Z",
+      "content": "fictional writing sample 3 3 with measured rhythm 3",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_003_4",
+      "author_handle_id": "Handle_003",
+      "source_id": "Source_008",
+      "timestamp": "2025-08-04T20:00:00Z",
+      "content": "fictional writing sample 3 4 with measured rhythm 3",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_004_1",
+      "author_handle_id": "Handle_004",
+      "source_id": "Source_006",
+      "timestamp": "2025-06-05T11:00:00Z",
+      "content": "fictional writing sample 4 1 with measured rhythm 0",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_004_2",
+      "author_handle_id": "Handle_004",
+      "source_id": "Source_007",
+      "timestamp": "2025-07-05T14:00:00Z",
+      "content": "fictional writing sample 4 2 with measured rhythm 0",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_004_3",
+      "author_handle_id": "Handle_004",
+      "source_id": "Source_008",
+      "timestamp": "2025-08-05T17:00:00Z",
+      "content": "fictional writing sample 4 3 with measured rhythm 0",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_004_4",
+      "author_handle_id": "Handle_004",
+      "source_id": "Source_009",
+      "timestamp": "2025-09-05T20:00:00Z",
+      "content": "fictional writing sample 4 4 with measured rhythm 0",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_005_1",
+      "author_handle_id": "Handle_005",
+      "source_id": "Source_007",
+      "timestamp": "2025-07-06T11:00:00Z",
+      "content": "fictional writing sample 5 1 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_005_2",
+      "author_handle_id": "Handle_005",
+      "source_id": "Source_008",
+      "timestamp": "2025-08-06T14:00:00Z",
+      "content": "fictional writing sample 5 2 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_005_3",
+      "author_handle_id": "Handle_005",
+      "source_id": "Source_009",
+      "timestamp": "2025-09-06T17:00:00Z",
+      "content": "fictional writing sample 5 3 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_005_4",
+      "author_handle_id": "Handle_005",
+      "source_id": "Source_010",
+      "timestamp": "2025-10-06T20:00:00Z",
+      "content": "fictional writing sample 5 4 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_006_1",
+      "author_handle_id": "Handle_006",
+      "source_id": "Source_008",
+      "timestamp": "2025-08-07T11:00:00Z",
+      "content": "fictional writing sample 6 1 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_006_2",
+      "author_handle_id": "Handle_006",
+      "source_id": "Source_009",
+      "timestamp": "2025-09-07T14:00:00Z",
+      "content": "fictional writing sample 6 2 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_006_3",
+      "author_handle_id": "Handle_006",
+      "source_id": "Source_010",
+      "timestamp": "2025-10-07T17:00:00Z",
+      "content": "fictional writing sample 6 3 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_006_4",
+      "author_handle_id": "Handle_006",
+      "source_id": "Source_011",
+      "timestamp": "2025-11-07T20:00:00Z",
+      "content": "fictional writing sample 6 4 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_007_1",
+      "author_handle_id": "Handle_007",
+      "source_id": "Source_009",
+      "timestamp": "2025-09-08T11:00:00Z",
+      "content": "fictional writing sample 7 1 with measured rhythm 3",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_007_2",
+      "author_handle_id": "Handle_007",
+      "source_id": "Source_010",
+      "timestamp": "2025-10-08T14:00:00Z",
+      "content": "fictional writing sample 7 2 with measured rhythm 3",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_007_3",
+      "author_handle_id": "Handle_007",
+      "source_id": "Source_011",
+      "timestamp": "2025-11-08T17:00:00Z",
+      "content": "fictional writing sample 7 3 with measured rhythm 3",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_007_4",
+      "author_handle_id": "Handle_007",
+      "source_id": "Source_012",
+      "timestamp": "2025-12-08T20:00:00Z",
+      "content": "fictional writing sample 7 4 with measured rhythm 3",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_008_1",
+      "author_handle_id": "Handle_008",
+      "source_id": "Source_010",
+      "timestamp": "2025-10-09T11:00:00Z",
+      "content": "fictional writing sample 8 1 with measured rhythm 0",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_008_2",
+      "author_handle_id": "Handle_008",
+      "source_id": "Source_011",
+      "timestamp": "2025-11-09T14:00:00Z",
+      "content": "fictional writing sample 8 2 with measured rhythm 0",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_008_3",
+      "author_handle_id": "Handle_008",
+      "source_id": "Source_012",
+      "timestamp": "2025-12-09T17:00:00Z",
+      "content": "fictional writing sample 8 3 with measured rhythm 0",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_008_4",
+      "author_handle_id": "Handle_008",
+      "source_id": "Source_013",
+      "timestamp": "2025-01-09T20:00:00Z",
+      "content": "fictional writing sample 8 4 with measured rhythm 0",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_009_1",
+      "author_handle_id": "Handle_009",
+      "source_id": "Source_011",
+      "timestamp": "2025-11-10T11:00:00Z",
+      "content": "fictional writing sample 9 1 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_009_2",
+      "author_handle_id": "Handle_009",
+      "source_id": "Source_012",
+      "timestamp": "2025-12-10T14:00:00Z",
+      "content": "fictional writing sample 9 2 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_009_3",
+      "author_handle_id": "Handle_009",
+      "source_id": "Source_013",
+      "timestamp": "2025-01-10T17:00:00Z",
+      "content": "fictional writing sample 9 3 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_009_4",
+      "author_handle_id": "Handle_009",
+      "source_id": "Source_014",
+      "timestamp": "2025-02-10T20:00:00Z",
+      "content": "fictional writing sample 9 4 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_010_1",
+      "author_handle_id": "Handle_010",
+      "source_id": "Source_012",
+      "timestamp": "2025-12-11T11:00:00Z",
+      "content": "fictional writing sample 10 1 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_010_2",
+      "author_handle_id": "Handle_010",
+      "source_id": "Source_013",
+      "timestamp": "2025-01-11T14:00:00Z",
+      "content": "fictional writing sample 10 2 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_010_3",
+      "author_handle_id": "Handle_010",
+      "source_id": "Source_014",
+      "timestamp": "2025-02-11T17:00:00Z",
+      "content": "fictional writing sample 10 3 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_010_4",
+      "author_handle_id": "Handle_010",
+      "source_id": "Source_015",
+      "timestamp": "2025-03-11T20:00:00Z",
+      "content": "fictional writing sample 10 4 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_011_1",
+      "author_handle_id": "Handle_011",
+      "source_id": "Source_013",
+      "timestamp": "2025-01-12T11:00:00Z",
+      "content": "fictional writing sample 11 1 with measured rhythm 3",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_011_2",
+      "author_handle_id": "Handle_011",
+      "source_id": "Source_014",
+      "timestamp": "2025-02-12T14:00:00Z",
+      "content": "fictional writing sample 11 2 with measured rhythm 3",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_011_3",
+      "author_handle_id": "Handle_011",
+      "source_id": "Source_015",
+      "timestamp": "2025-03-12T17:00:00Z",
+      "content": "fictional writing sample 11 3 with measured rhythm 3",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_011_4",
+      "author_handle_id": "Handle_011",
+      "source_id": "Source_016",
+      "timestamp": "2025-04-12T20:00:00Z",
+      "content": "fictional writing sample 11 4 with measured rhythm 3",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_012_1",
+      "author_handle_id": "Handle_012",
+      "source_id": "Source_014",
+      "timestamp": "2025-02-13T11:00:00Z",
+      "content": "fictional writing sample 12 1 with measured rhythm 0",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_012_2",
+      "author_handle_id": "Handle_012",
+      "source_id": "Source_015",
+      "timestamp": "2025-03-13T14:00:00Z",
+      "content": "fictional writing sample 12 2 with measured rhythm 0",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_012_3",
+      "author_handle_id": "Handle_012",
+      "source_id": "Source_016",
+      "timestamp": "2025-04-13T17:00:00Z",
+      "content": "fictional writing sample 12 3 with measured rhythm 0",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_012_4",
+      "author_handle_id": "Handle_012",
+      "source_id": "Source_017",
+      "timestamp": "2025-05-13T20:00:00Z",
+      "content": "fictional writing sample 12 4 with measured rhythm 0",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_013_1",
+      "author_handle_id": "Handle_013",
+      "source_id": "Source_015",
+      "timestamp": "2025-03-14T11:00:00Z",
+      "content": "fictional writing sample 13 1 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_013_2",
+      "author_handle_id": "Handle_013",
+      "source_id": "Source_016",
+      "timestamp": "2025-04-14T14:00:00Z",
+      "content": "fictional writing sample 13 2 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_013_3",
+      "author_handle_id": "Handle_013",
+      "source_id": "Source_017",
+      "timestamp": "2025-05-14T17:00:00Z",
+      "content": "fictional writing sample 13 3 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_013_4",
+      "author_handle_id": "Handle_013",
+      "source_id": "Source_018",
+      "timestamp": "2025-06-14T20:00:00Z",
+      "content": "fictional writing sample 13 4 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_014_1",
+      "author_handle_id": "Handle_014",
+      "source_id": "Source_016",
+      "timestamp": "2025-04-15T11:00:00Z",
+      "content": "fictional writing sample 14 1 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_014_2",
+      "author_handle_id": "Handle_014",
+      "source_id": "Source_017",
+      "timestamp": "2025-05-15T14:00:00Z",
+      "content": "fictional writing sample 14 2 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_014_3",
+      "author_handle_id": "Handle_014",
+      "source_id": "Source_018",
+      "timestamp": "2025-06-15T17:00:00Z",
+      "content": "fictional writing sample 14 3 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_014_4",
+      "author_handle_id": "Handle_014",
+      "source_id": "Source_001",
+      "timestamp": "2025-07-15T20:00:00Z",
+      "content": "fictional writing sample 14 4 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_015_1",
+      "author_handle_id": "Handle_015",
+      "source_id": "Source_017",
+      "timestamp": "2025-05-16T11:00:00Z",
+      "content": "fictional writing sample 15 1 with measured rhythm 3",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_015_2",
+      "author_handle_id": "Handle_015",
+      "source_id": "Source_018",
+      "timestamp": "2025-06-16T14:00:00Z",
+      "content": "fictional writing sample 15 2 with measured rhythm 3",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_015_3",
+      "author_handle_id": "Handle_015",
+      "source_id": "Source_001",
+      "timestamp": "2025-07-16T17:00:00Z",
+      "content": "fictional writing sample 15 3 with measured rhythm 3",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_015_4",
+      "author_handle_id": "Handle_015",
+      "source_id": "Source_002",
+      "timestamp": "2025-08-16T20:00:00Z",
+      "content": "fictional writing sample 15 4 with measured rhythm 3",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_016_1",
+      "author_handle_id": "Handle_016",
+      "source_id": "Source_018",
+      "timestamp": "2025-06-17T11:00:00Z",
+      "content": "fictional writing sample 16 1 with measured rhythm 0",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_016_2",
+      "author_handle_id": "Handle_016",
+      "source_id": "Source_001",
+      "timestamp": "2025-07-17T14:00:00Z",
+      "content": "fictional writing sample 16 2 with measured rhythm 0",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_016_3",
+      "author_handle_id": "Handle_016",
+      "source_id": "Source_002",
+      "timestamp": "2025-08-17T17:00:00Z",
+      "content": "fictional writing sample 16 3 with measured rhythm 0",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_016_4",
+      "author_handle_id": "Handle_016",
+      "source_id": "Source_003",
+      "timestamp": "2025-09-17T20:00:00Z",
+      "content": "fictional writing sample 16 4 with measured rhythm 0",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_017_1",
+      "author_handle_id": "Handle_017",
+      "source_id": "Source_001",
+      "timestamp": "2025-07-18T11:00:00Z",
+      "content": "fictional writing sample 17 1 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_017_2",
+      "author_handle_id": "Handle_017",
+      "source_id": "Source_002",
+      "timestamp": "2025-08-18T14:00:00Z",
+      "content": "fictional writing sample 17 2 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_017_3",
+      "author_handle_id": "Handle_017",
+      "source_id": "Source_003",
+      "timestamp": "2025-09-18T17:00:00Z",
+      "content": "fictional writing sample 17 3 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_017_4",
+      "author_handle_id": "Handle_017",
+      "source_id": "Source_004",
+      "timestamp": "2025-10-18T20:00:00Z",
+      "content": "fictional writing sample 17 4 with measured rhythm 1",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_018_1",
+      "author_handle_id": "Handle_018",
+      "source_id": "Source_002",
+      "timestamp": "2025-08-19T11:00:00Z",
+      "content": "fictional writing sample 18 1 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_018_2",
+      "author_handle_id": "Handle_018",
+      "source_id": "Source_003",
+      "timestamp": "2025-09-19T14:00:00Z",
+      "content": "fictional writing sample 18 2 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_018_3",
+      "author_handle_id": "Handle_018",
+      "source_id": "Source_004",
+      "timestamp": "2025-10-19T17:00:00Z",
+      "content": "fictional writing sample 18 3 with measured rhythm 2",
+      "data_origin": "synthetic"
+    },
+    {
+      "post_id": "Post_018_4",
+      "author_handle_id": "Handle_018",
+      "source_id": "Source_005",
+      "timestamp": "2025-11-19T20:00:00Z",
+      "content": "fictional writing sample 18 4 with measured rhythm 2",
+      "data_origin": "synthetic"
+    }
+  ],
+  "behavioral_events": [
+    {
+      "event_id": "Event_001_1",
+      "persona_id": "Persona_001",
+      "event_type": "listing",
+      "timestamp": "2025-03-02T09:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 9,
+      "active_day": 2,
+      "platform_id": "Marketplace_003",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_001_2",
+      "persona_id": "Persona_001",
+      "event_type": "reply",
+      "timestamp": "2025-04-02T11:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 11,
+      "active_day": 3,
+      "platform_id": "Forum_001",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_001_3",
+      "persona_id": "Persona_001",
+      "event_type": "posting",
+      "timestamp": "2025-05-02T13:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 13,
+      "active_day": 4,
+      "platform_id": "Marketplace_003",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_001_4",
+      "persona_id": "Persona_001",
+      "event_type": "listing",
+      "timestamp": "2025-06-02T15:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 15,
+      "active_day": 5,
+      "platform_id": "Forum_001",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_001_5",
+      "persona_id": "Persona_001",
+      "event_type": "reply",
+      "timestamp": "2025-07-02T17:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 17,
+      "active_day": 6,
+      "platform_id": "Marketplace_003",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_001_6",
+      "persona_id": "Persona_001",
+      "event_type": "posting",
+      "timestamp": "2025-08-02T19:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 19,
+      "active_day": 0,
+      "platform_id": "Forum_001",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_002_1",
+      "persona_id": "Persona_002",
+      "event_type": "listing",
+      "timestamp": "2025-04-03T09:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 9,
+      "active_day": 3,
+      "platform_id": "Marketplace_004",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_002_2",
+      "persona_id": "Persona_002",
+      "event_type": "reply",
+      "timestamp": "2025-05-03T11:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 11,
+      "active_day": 4,
+      "platform_id": "Forum_002",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_002_3",
+      "persona_id": "Persona_002",
+      "event_type": "posting",
+      "timestamp": "2025-06-03T13:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 13,
+      "active_day": 5,
+      "platform_id": "Marketplace_004",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_002_4",
+      "persona_id": "Persona_002",
+      "event_type": "listing",
+      "timestamp": "2025-07-03T15:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 15,
+      "active_day": 6,
+      "platform_id": "Forum_002",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_002_5",
+      "persona_id": "Persona_002",
+      "event_type": "reply",
+      "timestamp": "2025-08-03T17:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 17,
+      "active_day": 0,
+      "platform_id": "Marketplace_004",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_002_6",
+      "persona_id": "Persona_002",
+      "event_type": "posting",
+      "timestamp": "2025-09-03T19:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 19,
+      "active_day": 1,
+      "platform_id": "Forum_002",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_003_1",
+      "persona_id": "Persona_003",
+      "event_type": "listing",
+      "timestamp": "2025-05-04T09:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 9,
+      "active_day": 4,
+      "platform_id": "Marketplace_005",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_003_2",
+      "persona_id": "Persona_003",
+      "event_type": "reply",
+      "timestamp": "2025-06-04T11:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 11,
+      "active_day": 5,
+      "platform_id": "Forum_003",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_003_3",
+      "persona_id": "Persona_003",
+      "event_type": "posting",
+      "timestamp": "2025-07-04T13:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 13,
+      "active_day": 6,
+      "platform_id": "Marketplace_005",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_003_4",
+      "persona_id": "Persona_003",
+      "event_type": "listing",
+      "timestamp": "2025-08-04T15:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 15,
+      "active_day": 0,
+      "platform_id": "Forum_003",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_003_5",
+      "persona_id": "Persona_003",
+      "event_type": "reply",
+      "timestamp": "2025-09-04T17:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 17,
+      "active_day": 1,
+      "platform_id": "Marketplace_005",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_003_6",
+      "persona_id": "Persona_003",
+      "event_type": "posting",
+      "timestamp": "2025-10-04T19:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 19,
+      "active_day": 2,
+      "platform_id": "Forum_003",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_004_1",
+      "persona_id": "Persona_004",
+      "event_type": "listing",
+      "timestamp": "2025-06-05T09:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 9,
+      "active_day": 5,
+      "platform_id": "Marketplace_006",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_004_2",
+      "persona_id": "Persona_004",
+      "event_type": "reply",
+      "timestamp": "2025-07-05T11:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 11,
+      "active_day": 6,
+      "platform_id": "Forum_004",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_004_3",
+      "persona_id": "Persona_004",
+      "event_type": "posting",
+      "timestamp": "2025-08-05T13:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 13,
+      "active_day": 0,
+      "platform_id": "Marketplace_006",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_004_4",
+      "persona_id": "Persona_004",
+      "event_type": "listing",
+      "timestamp": "2025-09-05T15:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 15,
+      "active_day": 1,
+      "platform_id": "Forum_004",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_004_5",
+      "persona_id": "Persona_004",
+      "event_type": "reply",
+      "timestamp": "2025-10-05T17:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 17,
+      "active_day": 2,
+      "platform_id": "Marketplace_006",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_004_6",
+      "persona_id": "Persona_004",
+      "event_type": "posting",
+      "timestamp": "2025-11-05T19:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 19,
+      "active_day": 3,
+      "platform_id": "Forum_004",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_005_1",
+      "persona_id": "Persona_005",
+      "event_type": "listing",
+      "timestamp": "2025-07-06T09:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 9,
+      "active_day": 6,
+      "platform_id": "Marketplace_007",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_005_2",
+      "persona_id": "Persona_005",
+      "event_type": "reply",
+      "timestamp": "2025-08-06T11:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 11,
+      "active_day": 0,
+      "platform_id": "Forum_005",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_005_3",
+      "persona_id": "Persona_005",
+      "event_type": "posting",
+      "timestamp": "2025-09-06T13:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 13,
+      "active_day": 1,
+      "platform_id": "Marketplace_007",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_005_4",
+      "persona_id": "Persona_005",
+      "event_type": "listing",
+      "timestamp": "2025-10-06T15:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 15,
+      "active_day": 2,
+      "platform_id": "Forum_005",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_005_5",
+      "persona_id": "Persona_005",
+      "event_type": "reply",
+      "timestamp": "2025-11-06T17:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 17,
+      "active_day": 3,
+      "platform_id": "Marketplace_007",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_005_6",
+      "persona_id": "Persona_005",
+      "event_type": "posting",
+      "timestamp": "2025-12-06T19:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 19,
+      "active_day": 4,
+      "platform_id": "Forum_005",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_006_1",
+      "persona_id": "Persona_006",
+      "event_type": "listing",
+      "timestamp": "2025-08-07T09:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 9,
+      "active_day": 0,
+      "platform_id": "Marketplace_008",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_006_2",
+      "persona_id": "Persona_006",
+      "event_type": "reply",
+      "timestamp": "2025-09-07T11:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 11,
+      "active_day": 1,
+      "platform_id": "Forum_006",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_006_3",
+      "persona_id": "Persona_006",
+      "event_type": "posting",
+      "timestamp": "2025-10-07T13:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 13,
+      "active_day": 2,
+      "platform_id": "Marketplace_008",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_006_4",
+      "persona_id": "Persona_006",
+      "event_type": "listing",
+      "timestamp": "2025-11-07T15:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 15,
+      "active_day": 3,
+      "platform_id": "Forum_006",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_006_5",
+      "persona_id": "Persona_006",
+      "event_type": "reply",
+      "timestamp": "2025-12-07T17:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 17,
+      "active_day": 4,
+      "platform_id": "Marketplace_008",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_006_6",
+      "persona_id": "Persona_006",
+      "event_type": "posting",
+      "timestamp": "2025-01-07T19:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 19,
+      "active_day": 5,
+      "platform_id": "Forum_006",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_007_1",
+      "persona_id": "Persona_007",
+      "event_type": "listing",
+      "timestamp": "2025-09-08T09:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 9,
+      "active_day": 1,
+      "platform_id": "Marketplace_009",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_007_2",
+      "persona_id": "Persona_007",
+      "event_type": "reply",
+      "timestamp": "2025-10-08T11:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 11,
+      "active_day": 2,
+      "platform_id": "Forum_007",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_007_3",
+      "persona_id": "Persona_007",
+      "event_type": "posting",
+      "timestamp": "2025-11-08T13:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 13,
+      "active_day": 3,
+      "platform_id": "Marketplace_009",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_007_4",
+      "persona_id": "Persona_007",
+      "event_type": "listing",
+      "timestamp": "2025-12-08T15:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 15,
+      "active_day": 4,
+      "platform_id": "Forum_007",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_007_5",
+      "persona_id": "Persona_007",
+      "event_type": "reply",
+      "timestamp": "2025-01-08T17:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 17,
+      "active_day": 5,
+      "platform_id": "Marketplace_009",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_007_6",
+      "persona_id": "Persona_007",
+      "event_type": "posting",
+      "timestamp": "2025-02-08T19:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 19,
+      "active_day": 6,
+      "platform_id": "Forum_007",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_008_1",
+      "persona_id": "Persona_008",
+      "event_type": "listing",
+      "timestamp": "2025-10-09T09:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 9,
+      "active_day": 2,
+      "platform_id": "Marketplace_010",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_008_2",
+      "persona_id": "Persona_008",
+      "event_type": "reply",
+      "timestamp": "2025-11-09T11:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 11,
+      "active_day": 3,
+      "platform_id": "Forum_008",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_008_3",
+      "persona_id": "Persona_008",
+      "event_type": "posting",
+      "timestamp": "2025-12-09T13:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 13,
+      "active_day": 4,
+      "platform_id": "Marketplace_010",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_008_4",
+      "persona_id": "Persona_008",
+      "event_type": "listing",
+      "timestamp": "2025-01-09T15:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 15,
+      "active_day": 5,
+      "platform_id": "Forum_008",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_008_5",
+      "persona_id": "Persona_008",
+      "event_type": "reply",
+      "timestamp": "2025-02-09T17:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 17,
+      "active_day": 6,
+      "platform_id": "Marketplace_010",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_008_6",
+      "persona_id": "Persona_008",
+      "event_type": "posting",
+      "timestamp": "2025-03-09T19:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 19,
+      "active_day": 0,
+      "platform_id": "Forum_008",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_009_1",
+      "persona_id": "Persona_009",
+      "event_type": "listing",
+      "timestamp": "2025-11-10T09:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 9,
+      "active_day": 3,
+      "platform_id": "Marketplace_011",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_009_2",
+      "persona_id": "Persona_009",
+      "event_type": "reply",
+      "timestamp": "2025-12-10T11:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 11,
+      "active_day": 4,
+      "platform_id": "Forum_009",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_009_3",
+      "persona_id": "Persona_009",
+      "event_type": "posting",
+      "timestamp": "2025-01-10T13:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 13,
+      "active_day": 5,
+      "platform_id": "Marketplace_011",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_009_4",
+      "persona_id": "Persona_009",
+      "event_type": "listing",
+      "timestamp": "2025-02-10T15:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 15,
+      "active_day": 6,
+      "platform_id": "Forum_009",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_009_5",
+      "persona_id": "Persona_009",
+      "event_type": "reply",
+      "timestamp": "2025-03-10T17:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 17,
+      "active_day": 0,
+      "platform_id": "Marketplace_011",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_009_6",
+      "persona_id": "Persona_009",
+      "event_type": "posting",
+      "timestamp": "2025-04-10T19:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 19,
+      "active_day": 1,
+      "platform_id": "Forum_009",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_010_1",
+      "persona_id": "Persona_010",
+      "event_type": "listing",
+      "timestamp": "2025-12-11T09:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 9,
+      "active_day": 4,
+      "platform_id": "Marketplace_012",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_010_2",
+      "persona_id": "Persona_010",
+      "event_type": "reply",
+      "timestamp": "2025-01-11T11:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 11,
+      "active_day": 5,
+      "platform_id": "Forum_010",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_010_3",
+      "persona_id": "Persona_010",
+      "event_type": "posting",
+      "timestamp": "2025-02-11T13:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 13,
+      "active_day": 6,
+      "platform_id": "Marketplace_012",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_010_4",
+      "persona_id": "Persona_010",
+      "event_type": "listing",
+      "timestamp": "2025-03-11T15:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 15,
+      "active_day": 0,
+      "platform_id": "Forum_010",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_010_5",
+      "persona_id": "Persona_010",
+      "event_type": "reply",
+      "timestamp": "2025-04-11T17:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 17,
+      "active_day": 1,
+      "platform_id": "Marketplace_012",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_010_6",
+      "persona_id": "Persona_010",
+      "event_type": "posting",
+      "timestamp": "2025-05-11T19:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 19,
+      "active_day": 2,
+      "platform_id": "Forum_010",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_011_1",
+      "persona_id": "Persona_011",
+      "event_type": "listing",
+      "timestamp": "2025-01-12T09:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 9,
+      "active_day": 5,
+      "platform_id": "Marketplace_013",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_011_2",
+      "persona_id": "Persona_011",
+      "event_type": "reply",
+      "timestamp": "2025-02-12T11:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 11,
+      "active_day": 6,
+      "platform_id": "Forum_011",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_011_3",
+      "persona_id": "Persona_011",
+      "event_type": "posting",
+      "timestamp": "2025-03-12T13:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 13,
+      "active_day": 0,
+      "platform_id": "Marketplace_013",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_011_4",
+      "persona_id": "Persona_011",
+      "event_type": "listing",
+      "timestamp": "2025-04-12T15:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 15,
+      "active_day": 1,
+      "platform_id": "Forum_011",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_011_5",
+      "persona_id": "Persona_011",
+      "event_type": "reply",
+      "timestamp": "2025-05-12T17:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 17,
+      "active_day": 2,
+      "platform_id": "Marketplace_013",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_011_6",
+      "persona_id": "Persona_011",
+      "event_type": "posting",
+      "timestamp": "2025-06-12T19:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 19,
+      "active_day": 3,
+      "platform_id": "Forum_011",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_012_1",
+      "persona_id": "Persona_012",
+      "event_type": "listing",
+      "timestamp": "2025-02-13T09:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 9,
+      "active_day": 6,
+      "platform_id": "Marketplace_014",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_012_2",
+      "persona_id": "Persona_012",
+      "event_type": "reply",
+      "timestamp": "2025-03-13T11:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 11,
+      "active_day": 0,
+      "platform_id": "Forum_012",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_012_3",
+      "persona_id": "Persona_012",
+      "event_type": "posting",
+      "timestamp": "2025-04-13T13:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 13,
+      "active_day": 1,
+      "platform_id": "Marketplace_014",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_012_4",
+      "persona_id": "Persona_012",
+      "event_type": "listing",
+      "timestamp": "2025-05-13T15:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 15,
+      "active_day": 2,
+      "platform_id": "Forum_012",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_012_5",
+      "persona_id": "Persona_012",
+      "event_type": "reply",
+      "timestamp": "2025-06-13T17:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 17,
+      "active_day": 3,
+      "platform_id": "Marketplace_014",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_012_6",
+      "persona_id": "Persona_012",
+      "event_type": "posting",
+      "timestamp": "2025-07-13T19:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 19,
+      "active_day": 4,
+      "platform_id": "Forum_012",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_013_1",
+      "persona_id": "Persona_013",
+      "event_type": "listing",
+      "timestamp": "2025-03-14T09:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 9,
+      "active_day": 0,
+      "platform_id": "Marketplace_015",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_013_2",
+      "persona_id": "Persona_013",
+      "event_type": "reply",
+      "timestamp": "2025-04-14T11:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 11,
+      "active_day": 1,
+      "platform_id": "Forum_013",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_013_3",
+      "persona_id": "Persona_013",
+      "event_type": "posting",
+      "timestamp": "2025-05-14T13:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 13,
+      "active_day": 2,
+      "platform_id": "Marketplace_015",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_013_4",
+      "persona_id": "Persona_013",
+      "event_type": "listing",
+      "timestamp": "2025-06-14T15:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 15,
+      "active_day": 3,
+      "platform_id": "Forum_013",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_013_5",
+      "persona_id": "Persona_013",
+      "event_type": "reply",
+      "timestamp": "2025-07-14T17:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 17,
+      "active_day": 4,
+      "platform_id": "Marketplace_015",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_013_6",
+      "persona_id": "Persona_013",
+      "event_type": "posting",
+      "timestamp": "2025-08-14T19:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 19,
+      "active_day": 5,
+      "platform_id": "Forum_013",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_014_1",
+      "persona_id": "Persona_014",
+      "event_type": "listing",
+      "timestamp": "2025-04-15T09:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 9,
+      "active_day": 1,
+      "platform_id": "Marketplace_001",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_014_2",
+      "persona_id": "Persona_014",
+      "event_type": "reply",
+      "timestamp": "2025-05-15T11:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 11,
+      "active_day": 2,
+      "platform_id": "Forum_014",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_014_3",
+      "persona_id": "Persona_014",
+      "event_type": "posting",
+      "timestamp": "2025-06-15T13:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 13,
+      "active_day": 3,
+      "platform_id": "Marketplace_001",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_014_4",
+      "persona_id": "Persona_014",
+      "event_type": "listing",
+      "timestamp": "2025-07-15T15:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 15,
+      "active_day": 4,
+      "platform_id": "Forum_014",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_014_5",
+      "persona_id": "Persona_014",
+      "event_type": "reply",
+      "timestamp": "2025-08-15T17:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 17,
+      "active_day": 5,
+      "platform_id": "Marketplace_001",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_014_6",
+      "persona_id": "Persona_014",
+      "event_type": "posting",
+      "timestamp": "2025-09-15T19:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 19,
+      "active_day": 6,
+      "platform_id": "Forum_014",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_015_1",
+      "persona_id": "Persona_015",
+      "event_type": "listing",
+      "timestamp": "2025-05-16T09:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 9,
+      "active_day": 2,
+      "platform_id": "Marketplace_002",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_015_2",
+      "persona_id": "Persona_015",
+      "event_type": "reply",
+      "timestamp": "2025-06-16T11:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 11,
+      "active_day": 3,
+      "platform_id": "Forum_015",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_015_3",
+      "persona_id": "Persona_015",
+      "event_type": "posting",
+      "timestamp": "2025-07-16T13:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 13,
+      "active_day": 4,
+      "platform_id": "Marketplace_002",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_015_4",
+      "persona_id": "Persona_015",
+      "event_type": "listing",
+      "timestamp": "2025-08-16T15:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 15,
+      "active_day": 5,
+      "platform_id": "Forum_015",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_015_5",
+      "persona_id": "Persona_015",
+      "event_type": "reply",
+      "timestamp": "2025-09-16T17:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 17,
+      "active_day": 6,
+      "platform_id": "Marketplace_002",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_015_6",
+      "persona_id": "Persona_015",
+      "event_type": "posting",
+      "timestamp": "2025-10-16T19:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 19,
+      "active_day": 0,
+      "platform_id": "Forum_015",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_016_1",
+      "persona_id": "Persona_016",
+      "event_type": "listing",
+      "timestamp": "2025-06-17T09:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 9,
+      "active_day": 3,
+      "platform_id": "Marketplace_003",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_016_2",
+      "persona_id": "Persona_016",
+      "event_type": "reply",
+      "timestamp": "2025-07-17T11:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 11,
+      "active_day": 4,
+      "platform_id": "Forum_001",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_016_3",
+      "persona_id": "Persona_016",
+      "event_type": "posting",
+      "timestamp": "2025-08-17T13:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 13,
+      "active_day": 5,
+      "platform_id": "Marketplace_003",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_016_4",
+      "persona_id": "Persona_016",
+      "event_type": "listing",
+      "timestamp": "2025-09-17T15:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 15,
+      "active_day": 6,
+      "platform_id": "Forum_001",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_016_5",
+      "persona_id": "Persona_016",
+      "event_type": "reply",
+      "timestamp": "2025-10-17T17:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 17,
+      "active_day": 0,
+      "platform_id": "Marketplace_003",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_016_6",
+      "persona_id": "Persona_016",
+      "event_type": "posting",
+      "timestamp": "2025-11-17T19:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 19,
+      "active_day": 1,
+      "platform_id": "Forum_001",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_017_1",
+      "persona_id": "Persona_017",
+      "event_type": "listing",
+      "timestamp": "2025-07-18T09:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 9,
+      "active_day": 4,
+      "platform_id": "Marketplace_004",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_017_2",
+      "persona_id": "Persona_017",
+      "event_type": "reply",
+      "timestamp": "2025-08-18T11:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 11,
+      "active_day": 5,
+      "platform_id": "Forum_002",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_017_3",
+      "persona_id": "Persona_017",
+      "event_type": "posting",
+      "timestamp": "2025-09-18T13:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 13,
+      "active_day": 6,
+      "platform_id": "Marketplace_004",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_017_4",
+      "persona_id": "Persona_017",
+      "event_type": "listing",
+      "timestamp": "2025-10-18T15:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 15,
+      "active_day": 0,
+      "platform_id": "Forum_002",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_017_5",
+      "persona_id": "Persona_017",
+      "event_type": "reply",
+      "timestamp": "2025-11-18T17:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 17,
+      "active_day": 1,
+      "platform_id": "Marketplace_004",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_017_6",
+      "persona_id": "Persona_017",
+      "event_type": "posting",
+      "timestamp": "2025-12-18T19:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 19,
+      "active_day": 2,
+      "platform_id": "Forum_002",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_018_1",
+      "persona_id": "Persona_018",
+      "event_type": "listing",
+      "timestamp": "2025-08-19T09:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 9,
+      "active_day": 5,
+      "platform_id": "Marketplace_005",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_018_2",
+      "persona_id": "Persona_018",
+      "event_type": "reply",
+      "timestamp": "2025-09-19T11:00:00Z",
+      "activity_frequency": 1,
+      "active_hour": 11,
+      "active_day": 6,
+      "platform_id": "Forum_003",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_018_3",
+      "persona_id": "Persona_018",
+      "event_type": "posting",
+      "timestamp": "2025-10-19T13:00:00Z",
+      "activity_frequency": 2,
+      "active_hour": 13,
+      "active_day": 0,
+      "platform_id": "Marketplace_005",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_018_4",
+      "persona_id": "Persona_018",
+      "event_type": "listing",
+      "timestamp": "2025-11-19T15:00:00Z",
+      "activity_frequency": 3,
+      "active_hour": 15,
+      "active_day": 1,
+      "platform_id": "Forum_003",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_018_5",
+      "persona_id": "Persona_018",
+      "event_type": "reply",
+      "timestamp": "2025-12-19T17:00:00Z",
+      "activity_frequency": 4,
+      "active_hour": 17,
+      "active_day": 2,
+      "platform_id": "Marketplace_005",
+      "data_origin": "synthetic"
+    },
+    {
+      "event_id": "Event_018_6",
+      "persona_id": "Persona_018",
+      "event_type": "posting",
+      "timestamp": "2025-01-19T19:00:00Z",
+      "activity_frequency": 5,
+      "active_hour": 19,
+      "active_day": 3,
+      "platform_id": "Forum_003",
+      "data_origin": "synthetic"
+    }
+  ],
+  "evidence": [
+    {
+      "evidence_id": "Evidence_001",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_007",
+      "evidence_type": "stylometry",
+      "source_id": "Source_001",
+      "timestamp": "2025-02-02T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "style",
+      "direction": "supports",
+      "strength": 0.92,
+      "description": "Strong candidate signal: stylometry.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_002",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_007",
+      "evidence_type": "behavior_similarity",
+      "source_id": "Source_002",
+      "timestamp": "2025-03-03T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "behavior",
+      "direction": "supports",
+      "strength": 0.88,
+      "description": "Strong candidate signal: behavior_similarity.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_003",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_007",
+      "evidence_type": "pgp_relationship",
+      "source_id": "Source_003",
+      "timestamp": "2025-04-04T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "pgp",
+      "direction": "supports",
+      "strength": 0.95,
+      "description": "Strong candidate signal: pgp_relationship.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_004",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_007",
+      "evidence_type": "wallet_relationship",
+      "source_id": "Source_004",
+      "timestamp": "2025-05-05T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "wallet",
+      "direction": "supports",
+      "strength": 0.84,
+      "description": "Strong candidate signal: wallet_relationship.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_005",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_007",
+      "evidence_type": "timeline_overlap",
+      "source_id": "Source_005",
+      "timestamp": "2025-06-06T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "timeline",
+      "direction": "supports",
+      "strength": 0.86,
+      "description": "Strong candidate signal: timeline_overlap.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_006",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_007",
+      "evidence_type": "infrastructure_similarity",
+      "source_id": "Source_006",
+      "timestamp": "2025-07-07T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "infra",
+      "direction": "supports",
+      "strength": 0.81,
+      "description": "Strong candidate signal: infrastructure_similarity.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_007",
+      "actor_id": "Actor_002",
+      "candidate_actor_id": "Actor_009",
+      "evidence_type": "handle_similarity",
+      "source_id": "Source_008",
+      "timestamp": "2025-08-08T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "handle",
+      "direction": "supports",
+      "strength": 0.91,
+      "description": "False-link scenario signal: handle_similarity.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_008",
+      "actor_id": "Actor_002",
+      "candidate_actor_id": "Actor_009",
+      "evidence_type": "stylometry",
+      "source_id": "Source_009",
+      "timestamp": "2025-09-09T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "false_style",
+      "direction": "contradicts",
+      "strength": 0.18,
+      "description": "False-link scenario signal: stylometry.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_009",
+      "actor_id": "Actor_002",
+      "candidate_actor_id": "Actor_009",
+      "evidence_type": "behavior_similarity",
+      "source_id": "Source_010",
+      "timestamp": "2025-10-10T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "false_behavior",
+      "direction": "contradicts",
+      "strength": 0.21,
+      "description": "False-link scenario signal: behavior_similarity.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_010",
+      "actor_id": "Actor_002",
+      "candidate_actor_id": "Actor_009",
+      "evidence_type": "timeline_conflict",
+      "source_id": "Source_011",
+      "timestamp": "2025-11-11T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "false_timeline",
+      "direction": "contradicts",
+      "strength": 0.89,
+      "description": "False-link scenario signal: timeline_conflict.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_011",
+      "actor_id": "Actor_002",
+      "candidate_actor_id": "Actor_009",
+      "evidence_type": "infrastructure_difference",
+      "source_id": "Source_012",
+      "timestamp": "2025-12-12T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "false_infra",
+      "direction": "contradicts",
+      "strength": 0.86,
+      "description": "False-link scenario signal: infrastructure_difference.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_012",
+      "actor_id": "Actor_003",
+      "candidate_actor_id": "Actor_010",
+      "evidence_type": "support_signal",
+      "source_id": "Source_002",
+      "timestamp": "2025-01-13T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "conflict_family",
+      "direction": "supports",
+      "strength": 0.74,
+      "description": "Conflict scenario with dependent source family.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_013",
+      "actor_id": "Actor_003",
+      "candidate_actor_id": "Actor_010",
+      "evidence_type": "support_signal",
+      "source_id": "Source_002",
+      "timestamp": "2025-02-14T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "conflict_family",
+      "direction": "supports",
+      "strength": 0.74,
+      "description": "Conflict scenario with dependent source family.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_014",
+      "actor_id": "Actor_003",
+      "candidate_actor_id": "Actor_010",
+      "evidence_type": "support_signal",
+      "source_id": "Source_002",
+      "timestamp": "2025-03-15T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "conflict_family",
+      "direction": "supports",
+      "strength": 0.74,
+      "description": "Conflict scenario with dependent source family.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_015",
+      "actor_id": "Actor_003",
+      "candidate_actor_id": "Actor_010",
+      "evidence_type": "conflict_signal",
+      "source_id": "Source_002",
+      "timestamp": "2025-04-16T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "conflict_family",
+      "direction": "contradicts",
+      "strength": 0.88,
+      "description": "Conflict scenario with dependent source family.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_016",
+      "actor_id": "Actor_003",
+      "candidate_actor_id": "Actor_010",
+      "evidence_type": "support_signal",
+      "source_id": "Source_002",
+      "timestamp": "2025-05-17T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "conflict_family",
+      "direction": "supports",
+      "strength": 0.74,
+      "description": "Conflict scenario with dependent source family.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_017",
+      "actor_id": "Actor_003",
+      "candidate_actor_id": "Actor_010",
+      "evidence_type": "support_signal",
+      "source_id": "Source_002",
+      "timestamp": "2025-06-18T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "conflict_family",
+      "direction": "supports",
+      "strength": 0.74,
+      "description": "Conflict scenario with dependent source family.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_018",
+      "actor_id": "Actor_003",
+      "candidate_actor_id": "Actor_010",
+      "evidence_type": "support_signal",
+      "source_id": "Source_002",
+      "timestamp": "2025-07-19T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "conflict_family",
+      "direction": "supports",
+      "strength": 0.74,
+      "description": "Conflict scenario with dependent source family.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_019",
+      "actor_id": "Actor_003",
+      "candidate_actor_id": "Actor_010",
+      "evidence_type": "support_signal",
+      "source_id": "Source_002",
+      "timestamp": "2025-08-20T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "conflict_family",
+      "direction": "supports",
+      "strength": 0.74,
+      "description": "Conflict scenario with dependent source family.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_020",
+      "actor_id": "Actor_004",
+      "candidate_actor_id": "Actor_011",
+      "evidence_type": "redundant_signal",
+      "source_id": "Source_004",
+      "timestamp": "2025-09-21T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "redundant_family",
+      "direction": "supports",
+      "strength": 0.58,
+      "description": "Repeated record from the same source family.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_021",
+      "actor_id": "Actor_004",
+      "candidate_actor_id": "Actor_011",
+      "evidence_type": "redundant_signal",
+      "source_id": "Source_004",
+      "timestamp": "2025-10-22T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "redundant_family",
+      "direction": "supports",
+      "strength": 0.58,
+      "description": "Repeated record from the same source family.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_022",
+      "actor_id": "Actor_004",
+      "candidate_actor_id": "Actor_011",
+      "evidence_type": "redundant_signal",
+      "source_id": "Source_004",
+      "timestamp": "2025-11-23T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "redundant_family",
+      "direction": "supports",
+      "strength": 0.58,
+      "description": "Repeated record from the same source family.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_023",
+      "actor_id": "Actor_004",
+      "candidate_actor_id": "Actor_011",
+      "evidence_type": "redundant_signal",
+      "source_id": "Source_004",
+      "timestamp": "2025-12-24T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "redundant_family",
+      "direction": "supports",
+      "strength": 0.58,
+      "description": "Repeated record from the same source family.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_024",
+      "actor_id": "Actor_004",
+      "candidate_actor_id": "Actor_011",
+      "evidence_type": "redundant_signal",
+      "source_id": "Source_004",
+      "timestamp": "2025-01-01T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "redundant_family",
+      "direction": "supports",
+      "strength": 0.58,
+      "description": "Repeated record from the same source family.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_025",
+      "actor_id": "Actor_005",
+      "candidate_actor_id": "Actor_012",
+      "evidence_type": "weak_dependent_signal",
+      "source_id": "Source_006",
+      "timestamp": "2025-02-02T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "insufficient_family",
+      "direction": "supports",
+      "strength": 0.31,
+      "description": "Weak dependent support for abstention scenario.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_026",
+      "actor_id": "Actor_005",
+      "candidate_actor_id": "Actor_012",
+      "evidence_type": "weak_dependent_signal",
+      "source_id": "Source_006",
+      "timestamp": "2025-03-03T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "insufficient_family",
+      "direction": "supports",
+      "strength": 0.31,
+      "description": "Weak dependent support for abstention scenario.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_027",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_001",
+      "evidence_type": "rebranding_signal",
+      "source_id": "Source_008",
+      "timestamp": "2025-04-04T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "rebranding",
+      "direction": "supports",
+      "strength": 0.78,
+      "description": "Persona_001 to Persona_007 continuity signal.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_028",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_001",
+      "evidence_type": "rebranding_signal",
+      "source_id": "Source_008",
+      "timestamp": "2025-05-05T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "rebranding",
+      "direction": "supports",
+      "strength": 0.78,
+      "description": "Persona_001 to Persona_007 continuity signal.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_029",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_001",
+      "evidence_type": "rebranding_signal",
+      "source_id": "Source_008",
+      "timestamp": "2025-06-06T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "rebranding",
+      "direction": "supports",
+      "strength": 0.78,
+      "description": "Persona_001 to Persona_007 continuity signal.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_030",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_001",
+      "evidence_type": "rebranding_signal",
+      "source_id": "Source_008",
+      "timestamp": "2025-07-07T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "rebranding",
+      "direction": "supports",
+      "strength": 0.78,
+      "description": "Persona_001 to Persona_007 continuity signal.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_031",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_001",
+      "evidence_type": "persona_migration",
+      "source_id": "Source_010",
+      "timestamp": "2025-08-08T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "migration",
+      "direction": "supports",
+      "strength": 0.8,
+      "description": "Migration path includes Forum_001.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_032",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_001",
+      "evidence_type": "persona_migration",
+      "source_id": "Source_010",
+      "timestamp": "2025-09-09T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "migration",
+      "direction": "supports",
+      "strength": 0.8,
+      "description": "Migration path includes Marketplace_002.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_033",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_001",
+      "evidence_type": "persona_migration",
+      "source_id": "Source_010",
+      "timestamp": "2025-10-10T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "migration",
+      "direction": "supports",
+      "strength": 0.8,
+      "description": "Migration path includes Forum_003.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_034",
+      "actor_id": "Actor_005",
+      "candidate_actor_id": "Actor_009",
+      "evidence_type": "context_signal",
+      "source_id": "Source_017",
+      "timestamp": "2025-11-11T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_2",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_035",
+      "actor_id": "Actor_006",
+      "candidate_actor_id": "Actor_010",
+      "evidence_type": "context_signal",
+      "source_id": "Source_018",
+      "timestamp": "2025-12-12T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_3",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_036",
+      "actor_id": "Actor_007",
+      "candidate_actor_id": "Actor_011",
+      "evidence_type": "context_signal",
+      "source_id": "Source_001",
+      "timestamp": "2025-01-13T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_4",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_037",
+      "actor_id": "Actor_008",
+      "candidate_actor_id": "Actor_012",
+      "evidence_type": "context_signal",
+      "source_id": "Source_002",
+      "timestamp": "2025-02-14T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_5",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_038",
+      "actor_id": "Actor_009",
+      "candidate_actor_id": "Actor_013",
+      "evidence_type": "context_signal",
+      "source_id": "Source_003",
+      "timestamp": "2025-03-15T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_6",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_039",
+      "actor_id": "Actor_010",
+      "candidate_actor_id": "Actor_014",
+      "evidence_type": "context_signal",
+      "source_id": "Source_004",
+      "timestamp": "2025-04-16T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_7",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_040",
+      "actor_id": "Actor_011",
+      "candidate_actor_id": "Actor_015",
+      "evidence_type": "context_signal",
+      "source_id": "Source_005",
+      "timestamp": "2025-05-17T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_0",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_041",
+      "actor_id": "Actor_012",
+      "candidate_actor_id": "Actor_001",
+      "evidence_type": "context_signal",
+      "source_id": "Source_006",
+      "timestamp": "2025-06-18T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_1",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_042",
+      "actor_id": "Actor_013",
+      "candidate_actor_id": "Actor_002",
+      "evidence_type": "context_signal",
+      "source_id": "Source_007",
+      "timestamp": "2025-07-19T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_2",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_043",
+      "actor_id": "Actor_014",
+      "candidate_actor_id": "Actor_003",
+      "evidence_type": "context_signal",
+      "source_id": "Source_008",
+      "timestamp": "2025-08-20T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_3",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_044",
+      "actor_id": "Actor_015",
+      "candidate_actor_id": "Actor_004",
+      "evidence_type": "context_signal",
+      "source_id": "Source_009",
+      "timestamp": "2025-09-21T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_4",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_045",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_005",
+      "evidence_type": "context_signal",
+      "source_id": "Source_010",
+      "timestamp": "2025-10-22T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_5",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_046",
+      "actor_id": "Actor_002",
+      "candidate_actor_id": "Actor_006",
+      "evidence_type": "context_signal",
+      "source_id": "Source_011",
+      "timestamp": "2025-11-23T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_6",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_047",
+      "actor_id": "Actor_003",
+      "candidate_actor_id": "Actor_007",
+      "evidence_type": "context_signal",
+      "source_id": "Source_012",
+      "timestamp": "2025-12-24T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_7",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_048",
+      "actor_id": "Actor_004",
+      "candidate_actor_id": "Actor_008",
+      "evidence_type": "context_signal",
+      "source_id": "Source_013",
+      "timestamp": "2025-01-01T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_0",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_049",
+      "actor_id": "Actor_005",
+      "candidate_actor_id": "Actor_009",
+      "evidence_type": "context_signal",
+      "source_id": "Source_014",
+      "timestamp": "2025-02-02T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_1",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_050",
+      "actor_id": "Actor_006",
+      "candidate_actor_id": "Actor_010",
+      "evidence_type": "context_signal",
+      "source_id": "Source_015",
+      "timestamp": "2025-03-03T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_2",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_051",
+      "actor_id": "Actor_007",
+      "candidate_actor_id": "Actor_011",
+      "evidence_type": "context_signal",
+      "source_id": "Source_016",
+      "timestamp": "2025-04-04T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_3",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_052",
+      "actor_id": "Actor_008",
+      "candidate_actor_id": "Actor_012",
+      "evidence_type": "context_signal",
+      "source_id": "Source_017",
+      "timestamp": "2025-05-05T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_4",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_053",
+      "actor_id": "Actor_009",
+      "candidate_actor_id": "Actor_013",
+      "evidence_type": "context_signal",
+      "source_id": "Source_018",
+      "timestamp": "2025-06-06T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_5",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_054",
+      "actor_id": "Actor_010",
+      "candidate_actor_id": "Actor_014",
+      "evidence_type": "context_signal",
+      "source_id": "Source_001",
+      "timestamp": "2025-07-07T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_6",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_055",
+      "actor_id": "Actor_011",
+      "candidate_actor_id": "Actor_015",
+      "evidence_type": "context_signal",
+      "source_id": "Source_002",
+      "timestamp": "2025-08-08T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_7",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_056",
+      "actor_id": "Actor_012",
+      "candidate_actor_id": "Actor_001",
+      "evidence_type": "context_signal",
+      "source_id": "Source_003",
+      "timestamp": "2025-09-09T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_0",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_057",
+      "actor_id": "Actor_013",
+      "candidate_actor_id": "Actor_002",
+      "evidence_type": "context_signal",
+      "source_id": "Source_004",
+      "timestamp": "2025-10-10T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_1",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_058",
+      "actor_id": "Actor_014",
+      "candidate_actor_id": "Actor_003",
+      "evidence_type": "context_signal",
+      "source_id": "Source_005",
+      "timestamp": "2025-11-11T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_2",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_059",
+      "actor_id": "Actor_015",
+      "candidate_actor_id": "Actor_004",
+      "evidence_type": "context_signal",
+      "source_id": "Source_006",
+      "timestamp": "2025-12-12T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_3",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_060",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_005",
+      "evidence_type": "context_signal",
+      "source_id": "Source_007",
+      "timestamp": "2025-01-13T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_4",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_061",
+      "actor_id": "Actor_002",
+      "candidate_actor_id": "Actor_006",
+      "evidence_type": "context_signal",
+      "source_id": "Source_008",
+      "timestamp": "2025-02-14T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_5",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_062",
+      "actor_id": "Actor_003",
+      "candidate_actor_id": "Actor_007",
+      "evidence_type": "context_signal",
+      "source_id": "Source_009",
+      "timestamp": "2025-03-15T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_6",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_063",
+      "actor_id": "Actor_004",
+      "candidate_actor_id": "Actor_008",
+      "evidence_type": "context_signal",
+      "source_id": "Source_010",
+      "timestamp": "2025-04-16T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_7",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_064",
+      "actor_id": "Actor_005",
+      "candidate_actor_id": "Actor_009",
+      "evidence_type": "context_signal",
+      "source_id": "Source_011",
+      "timestamp": "2025-05-17T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_0",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_065",
+      "actor_id": "Actor_006",
+      "candidate_actor_id": "Actor_010",
+      "evidence_type": "context_signal",
+      "source_id": "Source_012",
+      "timestamp": "2025-06-18T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_1",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_066",
+      "actor_id": "Actor_007",
+      "candidate_actor_id": "Actor_011",
+      "evidence_type": "context_signal",
+      "source_id": "Source_013",
+      "timestamp": "2025-07-19T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_2",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_067",
+      "actor_id": "Actor_008",
+      "candidate_actor_id": "Actor_012",
+      "evidence_type": "context_signal",
+      "source_id": "Source_014",
+      "timestamp": "2025-08-20T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_3",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_068",
+      "actor_id": "Actor_009",
+      "candidate_actor_id": "Actor_013",
+      "evidence_type": "context_signal",
+      "source_id": "Source_015",
+      "timestamp": "2025-09-21T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_4",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_069",
+      "actor_id": "Actor_010",
+      "candidate_actor_id": "Actor_014",
+      "evidence_type": "context_signal",
+      "source_id": "Source_016",
+      "timestamp": "2025-10-22T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_5",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_070",
+      "actor_id": "Actor_011",
+      "candidate_actor_id": "Actor_015",
+      "evidence_type": "context_signal",
+      "source_id": "Source_017",
+      "timestamp": "2025-11-23T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_6",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_071",
+      "actor_id": "Actor_012",
+      "candidate_actor_id": "Actor_001",
+      "evidence_type": "context_signal",
+      "source_id": "Source_018",
+      "timestamp": "2025-12-24T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_7",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_072",
+      "actor_id": "Actor_013",
+      "candidate_actor_id": "Actor_002",
+      "evidence_type": "context_signal",
+      "source_id": "Source_001",
+      "timestamp": "2025-01-01T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_0",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_073",
+      "actor_id": "Actor_014",
+      "candidate_actor_id": "Actor_003",
+      "evidence_type": "context_signal",
+      "source_id": "Source_002",
+      "timestamp": "2025-02-02T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_1",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_074",
+      "actor_id": "Actor_015",
+      "candidate_actor_id": "Actor_004",
+      "evidence_type": "context_signal",
+      "source_id": "Source_003",
+      "timestamp": "2025-03-03T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_2",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_075",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_005",
+      "evidence_type": "context_signal",
+      "source_id": "Source_004",
+      "timestamp": "2025-04-04T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_3",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_076",
+      "actor_id": "Actor_002",
+      "candidate_actor_id": "Actor_006",
+      "evidence_type": "context_signal",
+      "source_id": "Source_005",
+      "timestamp": "2025-05-05T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_4",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_077",
+      "actor_id": "Actor_003",
+      "candidate_actor_id": "Actor_007",
+      "evidence_type": "context_signal",
+      "source_id": "Source_006",
+      "timestamp": "2025-06-06T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_5",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_078",
+      "actor_id": "Actor_004",
+      "candidate_actor_id": "Actor_008",
+      "evidence_type": "context_signal",
+      "source_id": "Source_007",
+      "timestamp": "2025-07-07T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_6",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_079",
+      "actor_id": "Actor_005",
+      "candidate_actor_id": "Actor_009",
+      "evidence_type": "context_signal",
+      "source_id": "Source_008",
+      "timestamp": "2025-08-08T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_7",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_080",
+      "actor_id": "Actor_006",
+      "candidate_actor_id": "Actor_010",
+      "evidence_type": "context_signal",
+      "source_id": "Source_009",
+      "timestamp": "2025-09-09T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_0",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_081",
+      "actor_id": "Actor_007",
+      "candidate_actor_id": "Actor_011",
+      "evidence_type": "context_signal",
+      "source_id": "Source_010",
+      "timestamp": "2025-10-10T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_1",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_082",
+      "actor_id": "Actor_008",
+      "candidate_actor_id": "Actor_012",
+      "evidence_type": "context_signal",
+      "source_id": "Source_011",
+      "timestamp": "2025-11-11T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_2",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_083",
+      "actor_id": "Actor_009",
+      "candidate_actor_id": "Actor_013",
+      "evidence_type": "context_signal",
+      "source_id": "Source_012",
+      "timestamp": "2025-12-12T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_3",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_084",
+      "actor_id": "Actor_010",
+      "candidate_actor_id": "Actor_014",
+      "evidence_type": "context_signal",
+      "source_id": "Source_013",
+      "timestamp": "2025-01-13T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_4",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_085",
+      "actor_id": "Actor_011",
+      "candidate_actor_id": "Actor_015",
+      "evidence_type": "context_signal",
+      "source_id": "Source_014",
+      "timestamp": "2025-02-14T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_5",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_086",
+      "actor_id": "Actor_012",
+      "candidate_actor_id": "Actor_001",
+      "evidence_type": "context_signal",
+      "source_id": "Source_015",
+      "timestamp": "2025-03-15T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_6",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_087",
+      "actor_id": "Actor_013",
+      "candidate_actor_id": "Actor_002",
+      "evidence_type": "context_signal",
+      "source_id": "Source_016",
+      "timestamp": "2025-04-16T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_7",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_088",
+      "actor_id": "Actor_014",
+      "candidate_actor_id": "Actor_003",
+      "evidence_type": "context_signal",
+      "source_id": "Source_017",
+      "timestamp": "2025-05-17T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_0",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_089",
+      "actor_id": "Actor_015",
+      "candidate_actor_id": "Actor_004",
+      "evidence_type": "context_signal",
+      "source_id": "Source_018",
+      "timestamp": "2025-06-18T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_1",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_090",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_005",
+      "evidence_type": "context_signal",
+      "source_id": "Source_001",
+      "timestamp": "2025-07-19T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_2",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_091",
+      "actor_id": "Actor_002",
+      "candidate_actor_id": "Actor_006",
+      "evidence_type": "context_signal",
+      "source_id": "Source_002",
+      "timestamp": "2025-08-20T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_3",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_092",
+      "actor_id": "Actor_003",
+      "candidate_actor_id": "Actor_007",
+      "evidence_type": "context_signal",
+      "source_id": "Source_003",
+      "timestamp": "2025-09-21T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_4",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_093",
+      "actor_id": "Actor_004",
+      "candidate_actor_id": "Actor_008",
+      "evidence_type": "context_signal",
+      "source_id": "Source_004",
+      "timestamp": "2025-10-22T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_5",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_094",
+      "actor_id": "Actor_005",
+      "candidate_actor_id": "Actor_009",
+      "evidence_type": "context_signal",
+      "source_id": "Source_005",
+      "timestamp": "2025-11-23T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_6",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_095",
+      "actor_id": "Actor_006",
+      "candidate_actor_id": "Actor_010",
+      "evidence_type": "context_signal",
+      "source_id": "Source_006",
+      "timestamp": "2025-12-24T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_7",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_096",
+      "actor_id": "Actor_007",
+      "candidate_actor_id": "Actor_011",
+      "evidence_type": "context_signal",
+      "source_id": "Source_007",
+      "timestamp": "2025-01-01T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_0",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_097",
+      "actor_id": "Actor_008",
+      "candidate_actor_id": "Actor_012",
+      "evidence_type": "context_signal",
+      "source_id": "Source_008",
+      "timestamp": "2025-02-02T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_1",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_098",
+      "actor_id": "Actor_009",
+      "candidate_actor_id": "Actor_013",
+      "evidence_type": "context_signal",
+      "source_id": "Source_009",
+      "timestamp": "2025-03-03T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_2",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_099",
+      "actor_id": "Actor_010",
+      "candidate_actor_id": "Actor_014",
+      "evidence_type": "context_signal",
+      "source_id": "Source_010",
+      "timestamp": "2025-04-04T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_3",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_100",
+      "actor_id": "Actor_011",
+      "candidate_actor_id": "Actor_015",
+      "evidence_type": "context_signal",
+      "source_id": "Source_011",
+      "timestamp": "2025-05-05T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_4",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_101",
+      "actor_id": "Actor_012",
+      "candidate_actor_id": "Actor_001",
+      "evidence_type": "context_signal",
+      "source_id": "Source_012",
+      "timestamp": "2025-06-06T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_5",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_102",
+      "actor_id": "Actor_013",
+      "candidate_actor_id": "Actor_002",
+      "evidence_type": "context_signal",
+      "source_id": "Source_013",
+      "timestamp": "2025-07-07T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_6",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_103",
+      "actor_id": "Actor_014",
+      "candidate_actor_id": "Actor_003",
+      "evidence_type": "context_signal",
+      "source_id": "Source_014",
+      "timestamp": "2025-08-08T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_7",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_104",
+      "actor_id": "Actor_015",
+      "candidate_actor_id": "Actor_004",
+      "evidence_type": "context_signal",
+      "source_id": "Source_015",
+      "timestamp": "2025-09-09T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_0",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_105",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_005",
+      "evidence_type": "context_signal",
+      "source_id": "Source_016",
+      "timestamp": "2025-10-10T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_1",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_106",
+      "actor_id": "Actor_002",
+      "candidate_actor_id": "Actor_006",
+      "evidence_type": "context_signal",
+      "source_id": "Source_017",
+      "timestamp": "2025-11-11T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_2",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_107",
+      "actor_id": "Actor_003",
+      "candidate_actor_id": "Actor_007",
+      "evidence_type": "context_signal",
+      "source_id": "Source_018",
+      "timestamp": "2025-12-12T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_3",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_108",
+      "actor_id": "Actor_004",
+      "candidate_actor_id": "Actor_008",
+      "evidence_type": "context_signal",
+      "source_id": "Source_001",
+      "timestamp": "2025-01-13T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_4",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_109",
+      "actor_id": "Actor_005",
+      "candidate_actor_id": "Actor_009",
+      "evidence_type": "context_signal",
+      "source_id": "Source_002",
+      "timestamp": "2025-02-14T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_5",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_110",
+      "actor_id": "Actor_006",
+      "candidate_actor_id": "Actor_010",
+      "evidence_type": "context_signal",
+      "source_id": "Source_003",
+      "timestamp": "2025-03-15T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_6",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_111",
+      "actor_id": "Actor_007",
+      "candidate_actor_id": "Actor_011",
+      "evidence_type": "context_signal",
+      "source_id": "Source_004",
+      "timestamp": "2025-04-16T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_7",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_112",
+      "actor_id": "Actor_008",
+      "candidate_actor_id": "Actor_012",
+      "evidence_type": "context_signal",
+      "source_id": "Source_005",
+      "timestamp": "2025-05-17T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_0",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_113",
+      "actor_id": "Actor_009",
+      "candidate_actor_id": "Actor_013",
+      "evidence_type": "context_signal",
+      "source_id": "Source_006",
+      "timestamp": "2025-06-18T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_1",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_114",
+      "actor_id": "Actor_010",
+      "candidate_actor_id": "Actor_014",
+      "evidence_type": "context_signal",
+      "source_id": "Source_007",
+      "timestamp": "2025-07-19T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_2",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_115",
+      "actor_id": "Actor_011",
+      "candidate_actor_id": "Actor_015",
+      "evidence_type": "context_signal",
+      "source_id": "Source_008",
+      "timestamp": "2025-08-20T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_3",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_116",
+      "actor_id": "Actor_012",
+      "candidate_actor_id": "Actor_001",
+      "evidence_type": "context_signal",
+      "source_id": "Source_009",
+      "timestamp": "2025-09-21T10:00:00Z",
+      "reliability": 0.72,
+      "independence_group": "context_4",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_117",
+      "actor_id": "Actor_013",
+      "candidate_actor_id": "Actor_002",
+      "evidence_type": "context_signal",
+      "source_id": "Source_010",
+      "timestamp": "2025-10-22T10:00:00Z",
+      "reliability": 0.78,
+      "independence_group": "context_5",
+      "direction": "contextual",
+      "strength": 0.5,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_118",
+      "actor_id": "Actor_014",
+      "candidate_actor_id": "Actor_003",
+      "evidence_type": "context_signal",
+      "source_id": "Source_011",
+      "timestamp": "2025-11-23T10:00:00Z",
+      "reliability": 0.84,
+      "independence_group": "context_6",
+      "direction": "contextual",
+      "strength": 0.55,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_119",
+      "actor_id": "Actor_015",
+      "candidate_actor_id": "Actor_004",
+      "evidence_type": "context_signal",
+      "source_id": "Source_012",
+      "timestamp": "2025-12-24T10:00:00Z",
+      "reliability": 0.9,
+      "independence_group": "context_7",
+      "direction": "contextual",
+      "strength": 0.6000000000000001,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    },
+    {
+      "evidence_id": "Evidence_120",
+      "actor_id": "Actor_001",
+      "candidate_actor_id": "Actor_005",
+      "evidence_type": "context_signal",
+      "source_id": "Source_013",
+      "timestamp": "2025-01-01T10:00:00Z",
+      "reliability": 0.66,
+      "independence_group": "context_0",
+      "direction": "contextual",
+      "strength": 0.45,
+      "description": "Contextual fixture signal for graph and timeline coverage.",
+      "data_origin": "synthetic"
+    }
+  ],
+  "relationships": [
+    {
+      "relationship_id": "Relationship_001",
+      "source_entity": "Actor_001",
+      "target_entity": "Actor_007",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.92,
+      "evidence_ids": [
+        "Evidence_001"
+      ],
+      "timestamp": "2025-02-02T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_002",
+      "source_entity": "Actor_001",
+      "target_entity": "Actor_007",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.88,
+      "evidence_ids": [
+        "Evidence_002"
+      ],
+      "timestamp": "2025-03-03T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_003",
+      "source_entity": "Actor_001",
+      "target_entity": "Actor_007",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.95,
+      "evidence_ids": [
+        "Evidence_003"
+      ],
+      "timestamp": "2025-04-04T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_004",
+      "source_entity": "Actor_001",
+      "target_entity": "Actor_007",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.84,
+      "evidence_ids": [
+        "Evidence_004"
+      ],
+      "timestamp": "2025-05-05T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_005",
+      "source_entity": "Actor_001",
+      "target_entity": "Actor_007",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.86,
+      "evidence_ids": [
+        "Evidence_005"
+      ],
+      "timestamp": "2025-06-06T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_006",
+      "source_entity": "Actor_001",
+      "target_entity": "Actor_007",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.81,
+      "evidence_ids": [
+        "Evidence_006"
+      ],
+      "timestamp": "2025-07-07T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_007",
+      "source_entity": "Actor_002",
+      "target_entity": "Actor_009",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.91,
+      "evidence_ids": [
+        "Evidence_007"
+      ],
+      "timestamp": "2025-08-08T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_008",
+      "source_entity": "Actor_002",
+      "target_entity": "Actor_009",
+      "relationship_type": "possible_false_link",
+      "strength": 0.18,
+      "evidence_ids": [
+        "Evidence_008"
+      ],
+      "timestamp": "2025-09-09T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_009",
+      "source_entity": "Actor_002",
+      "target_entity": "Actor_009",
+      "relationship_type": "possible_false_link",
+      "strength": 0.21,
+      "evidence_ids": [
+        "Evidence_009"
+      ],
+      "timestamp": "2025-10-10T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_010",
+      "source_entity": "Actor_002",
+      "target_entity": "Actor_009",
+      "relationship_type": "possible_false_link",
+      "strength": 0.89,
+      "evidence_ids": [
+        "Evidence_010"
+      ],
+      "timestamp": "2025-11-11T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_011",
+      "source_entity": "Actor_002",
+      "target_entity": "Actor_009",
+      "relationship_type": "possible_false_link",
+      "strength": 0.86,
+      "evidence_ids": [
+        "Evidence_011"
+      ],
+      "timestamp": "2025-12-12T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_012",
+      "source_entity": "Actor_003",
+      "target_entity": "Actor_010",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.65,
+      "evidence_ids": [
+        "Evidence_012"
+      ],
+      "timestamp": "2025-01-13T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_013",
+      "source_entity": "Actor_003",
+      "target_entity": "Actor_010",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.65,
+      "evidence_ids": [
+        "Evidence_013"
+      ],
+      "timestamp": "2025-02-14T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_014",
+      "source_entity": "Actor_003",
+      "target_entity": "Actor_010",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.65,
+      "evidence_ids": [
+        "Evidence_014"
+      ],
+      "timestamp": "2025-03-15T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_015",
+      "source_entity": "Actor_003",
+      "target_entity": "Actor_010",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.65,
+      "evidence_ids": [
+        "Evidence_015"
+      ],
+      "timestamp": "2025-04-16T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_016",
+      "source_entity": "Actor_003",
+      "target_entity": "Actor_010",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.65,
+      "evidence_ids": [
+        "Evidence_016"
+      ],
+      "timestamp": "2025-05-17T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_017",
+      "source_entity": "Actor_003",
+      "target_entity": "Actor_010",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.65,
+      "evidence_ids": [
+        "Evidence_017"
+      ],
+      "timestamp": "2025-06-18T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_018",
+      "source_entity": "Actor_003",
+      "target_entity": "Actor_010",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.65,
+      "evidence_ids": [
+        "Evidence_018"
+      ],
+      "timestamp": "2025-07-19T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_019",
+      "source_entity": "Actor_003",
+      "target_entity": "Actor_010",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.65,
+      "evidence_ids": [
+        "Evidence_019"
+      ],
+      "timestamp": "2025-08-20T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_020",
+      "source_entity": "Actor_004",
+      "target_entity": "Actor_011",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.42,
+      "evidence_ids": [
+        "Evidence_020"
+      ],
+      "timestamp": "2025-09-21T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_021",
+      "source_entity": "Actor_004",
+      "target_entity": "Actor_011",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.42,
+      "evidence_ids": [
+        "Evidence_021"
+      ],
+      "timestamp": "2025-10-22T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_022",
+      "source_entity": "Actor_004",
+      "target_entity": "Actor_011",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.42,
+      "evidence_ids": [
+        "Evidence_022"
+      ],
+      "timestamp": "2025-11-23T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_023",
+      "source_entity": "Actor_004",
+      "target_entity": "Actor_011",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.42,
+      "evidence_ids": [
+        "Evidence_023"
+      ],
+      "timestamp": "2025-12-24T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_024",
+      "source_entity": "Actor_004",
+      "target_entity": "Actor_011",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.42,
+      "evidence_ids": [
+        "Evidence_024"
+      ],
+      "timestamp": "2025-01-01T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_025",
+      "source_entity": "Actor_005",
+      "target_entity": "Actor_012",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.25,
+      "evidence_ids": [
+        "Evidence_025"
+      ],
+      "timestamp": "2025-02-02T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_026",
+      "source_entity": "Actor_005",
+      "target_entity": "Actor_012",
+      "relationship_type": "candidate_identity_link",
+      "strength": 0.25,
+      "evidence_ids": [
+        "Evidence_026"
+      ],
+      "timestamp": "2025-03-03T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_027",
+      "source_entity": "Persona_001",
+      "target_entity": "Persona_007",
+      "relationship_type": "persona_rebranding",
+      "strength": 0.78,
+      "evidence_ids": [
+        "Evidence_027"
+      ],
+      "timestamp": "2025-04-04T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_028",
+      "source_entity": "Persona_001",
+      "target_entity": "Persona_007",
+      "relationship_type": "persona_rebranding",
+      "strength": 0.78,
+      "evidence_ids": [
+        "Evidence_028"
+      ],
+      "timestamp": "2025-05-05T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_029",
+      "source_entity": "Persona_001",
+      "target_entity": "Persona_007",
+      "relationship_type": "persona_rebranding",
+      "strength": 0.78,
+      "evidence_ids": [
+        "Evidence_029"
+      ],
+      "timestamp": "2025-06-06T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_030",
+      "source_entity": "Persona_001",
+      "target_entity": "Persona_007",
+      "relationship_type": "persona_rebranding",
+      "strength": 0.78,
+      "evidence_ids": [
+        "Evidence_030"
+      ],
+      "timestamp": "2025-07-07T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_031",
+      "source_entity": "Persona_001",
+      "target_entity": "Forum_001",
+      "relationship_type": "persona_migration",
+      "strength": 0.8,
+      "evidence_ids": [
+        "Evidence_031"
+      ],
+      "timestamp": "2025-08-08T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_032",
+      "source_entity": "Persona_001",
+      "target_entity": "Marketplace_002",
+      "relationship_type": "persona_migration",
+      "strength": 0.8,
+      "evidence_ids": [
+        "Evidence_032"
+      ],
+      "timestamp": "2025-09-09T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_033",
+      "source_entity": "Persona_001",
+      "target_entity": "Forum_003",
+      "relationship_type": "persona_migration",
+      "strength": 0.8,
+      "evidence_ids": [
+        "Evidence_033"
+      ],
+      "timestamp": "2025-10-10T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_034",
+      "source_entity": "Actor_005",
+      "target_entity": "Infra_015",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_034"
+      ],
+      "timestamp": "2025-11-11T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_035",
+      "source_entity": "Actor_006",
+      "target_entity": "Infra_016",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_035"
+      ],
+      "timestamp": "2025-12-12T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_036",
+      "source_entity": "Actor_007",
+      "target_entity": "Infra_017",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_036"
+      ],
+      "timestamp": "2025-01-13T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_037",
+      "source_entity": "Actor_008",
+      "target_entity": "Infra_018",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_037"
+      ],
+      "timestamp": "2025-02-14T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_038",
+      "source_entity": "Actor_009",
+      "target_entity": "Infra_019",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_038"
+      ],
+      "timestamp": "2025-03-15T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_039",
+      "source_entity": "Actor_010",
+      "target_entity": "Infra_020",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_039"
+      ],
+      "timestamp": "2025-04-16T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_040",
+      "source_entity": "Actor_011",
+      "target_entity": "Infra_001",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_040"
+      ],
+      "timestamp": "2025-05-17T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_041",
+      "source_entity": "Actor_012",
+      "target_entity": "Infra_002",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_041"
+      ],
+      "timestamp": "2025-06-18T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_042",
+      "source_entity": "Actor_013",
+      "target_entity": "Infra_003",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_042"
+      ],
+      "timestamp": "2025-07-19T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_043",
+      "source_entity": "Actor_014",
+      "target_entity": "Infra_004",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_043"
+      ],
+      "timestamp": "2025-08-20T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_044",
+      "source_entity": "Actor_015",
+      "target_entity": "Infra_005",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_044"
+      ],
+      "timestamp": "2025-09-21T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_045",
+      "source_entity": "Actor_001",
+      "target_entity": "Infra_006",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_045"
+      ],
+      "timestamp": "2025-10-22T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_046",
+      "source_entity": "Actor_002",
+      "target_entity": "Infra_007",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_046"
+      ],
+      "timestamp": "2025-11-23T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_047",
+      "source_entity": "Actor_003",
+      "target_entity": "Infra_008",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_047"
+      ],
+      "timestamp": "2025-12-24T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_048",
+      "source_entity": "Actor_004",
+      "target_entity": "Infra_009",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_048"
+      ],
+      "timestamp": "2025-01-01T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_049",
+      "source_entity": "Actor_005",
+      "target_entity": "Infra_010",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_049"
+      ],
+      "timestamp": "2025-02-02T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_050",
+      "source_entity": "Actor_006",
+      "target_entity": "Infra_011",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_050"
+      ],
+      "timestamp": "2025-03-03T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_051",
+      "source_entity": "Actor_007",
+      "target_entity": "Infra_012",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_051"
+      ],
+      "timestamp": "2025-04-04T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_052",
+      "source_entity": "Actor_008",
+      "target_entity": "Infra_013",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_052"
+      ],
+      "timestamp": "2025-05-05T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_053",
+      "source_entity": "Actor_009",
+      "target_entity": "Infra_014",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_053"
+      ],
+      "timestamp": "2025-06-06T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_054",
+      "source_entity": "Actor_010",
+      "target_entity": "Infra_015",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_054"
+      ],
+      "timestamp": "2025-07-07T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_055",
+      "source_entity": "Actor_011",
+      "target_entity": "Infra_016",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_055"
+      ],
+      "timestamp": "2025-08-08T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_056",
+      "source_entity": "Actor_012",
+      "target_entity": "Infra_017",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_056"
+      ],
+      "timestamp": "2025-09-09T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_057",
+      "source_entity": "Actor_013",
+      "target_entity": "Infra_018",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_057"
+      ],
+      "timestamp": "2025-10-10T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_058",
+      "source_entity": "Actor_014",
+      "target_entity": "Infra_019",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_058"
+      ],
+      "timestamp": "2025-11-11T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_059",
+      "source_entity": "Actor_015",
+      "target_entity": "Infra_020",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_059"
+      ],
+      "timestamp": "2025-12-12T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_060",
+      "source_entity": "Actor_001",
+      "target_entity": "Infra_001",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_060"
+      ],
+      "timestamp": "2025-01-13T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_061",
+      "source_entity": "Actor_002",
+      "target_entity": "Infra_002",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_061"
+      ],
+      "timestamp": "2025-02-14T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_062",
+      "source_entity": "Actor_003",
+      "target_entity": "Infra_003",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_062"
+      ],
+      "timestamp": "2025-03-15T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_063",
+      "source_entity": "Actor_004",
+      "target_entity": "Infra_004",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_063"
+      ],
+      "timestamp": "2025-04-16T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_064",
+      "source_entity": "Actor_005",
+      "target_entity": "Infra_005",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_064"
+      ],
+      "timestamp": "2025-05-17T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_065",
+      "source_entity": "Actor_006",
+      "target_entity": "Infra_006",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_065"
+      ],
+      "timestamp": "2025-06-18T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_066",
+      "source_entity": "Actor_007",
+      "target_entity": "Infra_007",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_066"
+      ],
+      "timestamp": "2025-07-19T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_067",
+      "source_entity": "Actor_008",
+      "target_entity": "Infra_008",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_067"
+      ],
+      "timestamp": "2025-08-20T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_068",
+      "source_entity": "Actor_009",
+      "target_entity": "Infra_009",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_068"
+      ],
+      "timestamp": "2025-09-21T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_069",
+      "source_entity": "Actor_010",
+      "target_entity": "Infra_010",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_069"
+      ],
+      "timestamp": "2025-10-22T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_070",
+      "source_entity": "Actor_011",
+      "target_entity": "Infra_011",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_070"
+      ],
+      "timestamp": "2025-11-23T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_071",
+      "source_entity": "Actor_012",
+      "target_entity": "Infra_012",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_071"
+      ],
+      "timestamp": "2025-12-24T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_072",
+      "source_entity": "Actor_013",
+      "target_entity": "Infra_013",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_072"
+      ],
+      "timestamp": "2025-01-01T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_073",
+      "source_entity": "Actor_014",
+      "target_entity": "Infra_014",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_073"
+      ],
+      "timestamp": "2025-02-02T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_074",
+      "source_entity": "Actor_015",
+      "target_entity": "Infra_015",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_074"
+      ],
+      "timestamp": "2025-03-03T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_075",
+      "source_entity": "Actor_001",
+      "target_entity": "Infra_016",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_075"
+      ],
+      "timestamp": "2025-04-04T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_076",
+      "source_entity": "Actor_002",
+      "target_entity": "Infra_017",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_076"
+      ],
+      "timestamp": "2025-05-05T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_077",
+      "source_entity": "Actor_003",
+      "target_entity": "Infra_018",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_077"
+      ],
+      "timestamp": "2025-06-06T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_078",
+      "source_entity": "Actor_004",
+      "target_entity": "Infra_019",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_078"
+      ],
+      "timestamp": "2025-07-07T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_079",
+      "source_entity": "Actor_005",
+      "target_entity": "Infra_020",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_079"
+      ],
+      "timestamp": "2025-08-08T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_080",
+      "source_entity": "Actor_006",
+      "target_entity": "Infra_001",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_080"
+      ],
+      "timestamp": "2025-09-09T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_081",
+      "source_entity": "Actor_007",
+      "target_entity": "Infra_002",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_081"
+      ],
+      "timestamp": "2025-10-10T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_082",
+      "source_entity": "Actor_008",
+      "target_entity": "Infra_003",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_082"
+      ],
+      "timestamp": "2025-11-11T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_083",
+      "source_entity": "Actor_009",
+      "target_entity": "Infra_004",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_083"
+      ],
+      "timestamp": "2025-12-12T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_084",
+      "source_entity": "Actor_010",
+      "target_entity": "Infra_005",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_084"
+      ],
+      "timestamp": "2025-01-13T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_085",
+      "source_entity": "Actor_011",
+      "target_entity": "Infra_006",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_085"
+      ],
+      "timestamp": "2025-02-14T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_086",
+      "source_entity": "Actor_012",
+      "target_entity": "Infra_007",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_086"
+      ],
+      "timestamp": "2025-03-15T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_087",
+      "source_entity": "Actor_013",
+      "target_entity": "Infra_008",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_087"
+      ],
+      "timestamp": "2025-04-16T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_088",
+      "source_entity": "Actor_014",
+      "target_entity": "Infra_009",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_088"
+      ],
+      "timestamp": "2025-05-17T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_089",
+      "source_entity": "Actor_015",
+      "target_entity": "Infra_010",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_089"
+      ],
+      "timestamp": "2025-06-18T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_090",
+      "source_entity": "Actor_001",
+      "target_entity": "Infra_011",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_090"
+      ],
+      "timestamp": "2025-07-19T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_091",
+      "source_entity": "Actor_002",
+      "target_entity": "Infra_012",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_091"
+      ],
+      "timestamp": "2025-08-20T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_092",
+      "source_entity": "Actor_003",
+      "target_entity": "Infra_013",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_092"
+      ],
+      "timestamp": "2025-09-21T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_093",
+      "source_entity": "Actor_004",
+      "target_entity": "Infra_014",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_093"
+      ],
+      "timestamp": "2025-10-22T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_094",
+      "source_entity": "Actor_005",
+      "target_entity": "Infra_015",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_094"
+      ],
+      "timestamp": "2025-11-23T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_095",
+      "source_entity": "Actor_006",
+      "target_entity": "Infra_016",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_095"
+      ],
+      "timestamp": "2025-12-24T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_096",
+      "source_entity": "Actor_007",
+      "target_entity": "Infra_017",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_096"
+      ],
+      "timestamp": "2025-01-01T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_097",
+      "source_entity": "Actor_008",
+      "target_entity": "Infra_018",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_097"
+      ],
+      "timestamp": "2025-02-02T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_098",
+      "source_entity": "Actor_009",
+      "target_entity": "Infra_019",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_098"
+      ],
+      "timestamp": "2025-03-03T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_099",
+      "source_entity": "Actor_010",
+      "target_entity": "Infra_020",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_099"
+      ],
+      "timestamp": "2025-04-04T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_100",
+      "source_entity": "Actor_011",
+      "target_entity": "Infra_001",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_100"
+      ],
+      "timestamp": "2025-05-05T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_101",
+      "source_entity": "Actor_012",
+      "target_entity": "Infra_002",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_101"
+      ],
+      "timestamp": "2025-06-06T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_102",
+      "source_entity": "Actor_013",
+      "target_entity": "Infra_003",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_102"
+      ],
+      "timestamp": "2025-07-07T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_103",
+      "source_entity": "Actor_014",
+      "target_entity": "Infra_004",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_103"
+      ],
+      "timestamp": "2025-08-08T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_104",
+      "source_entity": "Actor_015",
+      "target_entity": "Infra_005",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_104"
+      ],
+      "timestamp": "2025-09-09T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_105",
+      "source_entity": "Actor_001",
+      "target_entity": "Infra_006",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_105"
+      ],
+      "timestamp": "2025-10-10T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_106",
+      "source_entity": "Actor_002",
+      "target_entity": "Infra_007",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_106"
+      ],
+      "timestamp": "2025-11-11T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_107",
+      "source_entity": "Actor_003",
+      "target_entity": "Infra_008",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_107"
+      ],
+      "timestamp": "2025-12-12T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_108",
+      "source_entity": "Actor_004",
+      "target_entity": "Infra_009",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_108"
+      ],
+      "timestamp": "2025-01-13T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_109",
+      "source_entity": "Actor_005",
+      "target_entity": "Infra_010",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_109"
+      ],
+      "timestamp": "2025-02-14T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_110",
+      "source_entity": "Actor_006",
+      "target_entity": "Infra_011",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_110"
+      ],
+      "timestamp": "2025-03-15T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_111",
+      "source_entity": "Actor_007",
+      "target_entity": "Infra_012",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_111"
+      ],
+      "timestamp": "2025-04-16T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_112",
+      "source_entity": "Actor_008",
+      "target_entity": "Infra_013",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_112"
+      ],
+      "timestamp": "2025-05-17T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_113",
+      "source_entity": "Actor_009",
+      "target_entity": "Infra_014",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_113"
+      ],
+      "timestamp": "2025-06-18T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_114",
+      "source_entity": "Actor_010",
+      "target_entity": "Infra_015",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_114"
+      ],
+      "timestamp": "2025-07-19T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_115",
+      "source_entity": "Actor_011",
+      "target_entity": "Infra_016",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_115"
+      ],
+      "timestamp": "2025-08-20T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_116",
+      "source_entity": "Actor_012",
+      "target_entity": "Infra_017",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_116"
+      ],
+      "timestamp": "2025-09-21T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_117",
+      "source_entity": "Actor_013",
+      "target_entity": "Infra_018",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_117"
+      ],
+      "timestamp": "2025-10-22T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_118",
+      "source_entity": "Actor_014",
+      "target_entity": "Infra_019",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_118"
+      ],
+      "timestamp": "2025-11-23T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_119",
+      "source_entity": "Actor_015",
+      "target_entity": "Infra_020",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_119"
+      ],
+      "timestamp": "2025-12-24T10:00:00Z",
+      "data_origin": "synthetic"
+    },
+    {
+      "relationship_id": "Relationship_120",
+      "source_entity": "Actor_001",
+      "target_entity": "Infra_001",
+      "relationship_type": "references",
+      "strength": 0.4,
+      "evidence_ids": [
+        "Evidence_120"
+      ],
+      "timestamp": "2025-01-01T10:00:00Z",
+      "data_origin": "synthetic"
+    }
+  ]
+}

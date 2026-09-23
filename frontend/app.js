@@ -1,6 +1,9 @@
 ﻿const $ = (selector) => document.querySelector(selector);
 const $$ = (selector) => Array.from(document.querySelectorAll(selector));
-const get = (path) => fetch(path).then((response) => response.json());
+const API_BASE_URL = "https://atlas-threat-intelligence-backend.onrender.com";
+
+const get = (path) =>
+  fetch(`${API_BASE_URL}${path}`).then((response) => response.json());
 
 const state = {
   activeNav: "overview",

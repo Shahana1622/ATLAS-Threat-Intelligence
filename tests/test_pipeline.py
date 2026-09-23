@@ -1,7 +1,7 @@
 import unittest
 
-from backend.threat_platform.services.generator import generate_dataset
-from backend.threat_platform.services.pipeline import run_analysis
+from threat_platform.services.generator import generate_dataset
+from threat_platform.services.pipeline import run_analysis
 
 
 class PipelineIntegrationTests(unittest.TestCase):

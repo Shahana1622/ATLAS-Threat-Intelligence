@@ -4,7 +4,7 @@ import json
 from pathlib import Path
 from typing import Any
 
-from backend.threat_platform.models.schemas import validate_dataset
+from threat_platform.models.schemas import validate_dataset
 
 
 def dataset_path() -> Path:

@@ -3,9 +3,9 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from backend.threat_platform.models.schemas import validate_dataset
-from backend.threat_platform.services.generator import generate_dataset
-from backend.threat_platform.services.storage import load_dataset, save_dataset
+from threat_platform.models.schemas import validate_dataset
+from threat_platform.services.generator import generate_dataset
+from threat_platform.services.storage import load_dataset, save_dataset
 
 
 class FoundationTests(unittest.TestCase):

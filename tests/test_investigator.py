@@ -1,8 +1,8 @@
 import json
 import unittest
 
-from backend.threat_platform.services.generator import generate_dataset
-from backend.threat_platform.services.investigator import (
+from threat_platform.services.generator import generate_dataset
+from threat_platform.services.investigator import (
     build_audit_trail,
     build_coverage_validation,
     build_dashboard,

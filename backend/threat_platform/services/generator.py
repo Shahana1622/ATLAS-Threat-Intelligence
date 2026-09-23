@@ -2,7 +2,7 @@ from __future__ import annotations
 
 from typing import Any
 
-from backend.threat_platform.models.schemas import DATA_ORIGIN
+from threat_platform.models.schemas import DATA_ORIGIN
 
 
 def generate_dataset() -> dict[str, Any]:
